@@ -1,0 +1,136 @@
+Here is the JSON array of performances:
+
+```
+[
+  {
+    "title": "ANGELS IN WARSAW",
+    "date": "2023-03-22",
+    "time": "19:00"
+  },
+  {
+    "title": "ANGELS IN WARSAW",
+    "date": "2023-03-23",
+    "time": "17:00"
+  },
+  {
+    "title": "HORYZONTY / na marginesach / ANIOŁY W WARSZAWIE",
+    "date": "2023-03-24",
+    "time": "19:00"
+  },
+  {
+    "title": "ANGELS IN WARSAW",
+    "date": "2023-03-25",
+    "time": "19:00"
+  },
+  {
+    "title": "Zekameron",
+    "date": "2023-03-26",
+    "time": "17:00"
+  },
+  {
+    "title": "ANTIGONE IN MOLENBEEK",
+    "date": "2023-03-27",
+    "time": "18:00"
+  },
+  {
+    "title": "FERDYDURKE",
+    "date": "2023-03-28",
+    "time": "18:00"
+  },
+  {
+    "title": "LOVE AT LAST SIGHT",
+    "date": "2023-03-29",
+    "time": "19:30"
+  },
+  {
+    "title": "PODWÓJNY Z FRYTKAMI",
+    "date": "2023-03-30",
+    "time": "19:30"
+  },
+  {
+    "title": "THE MASTER AND MARGARITA",
+    "date": "2023-03-31",
+    "time": "18:00"
+  },
+  {
+    "title": "THE HIGH JUMP",
+    "date": "2023-04-01",
+    "time": "17:30"
+  },
+  {
+    "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+    "date": "2023-04-02",
+    "time": "19:30"
+  },
+  {
+    "title": "KINKY BOOTS",
+    "date": "2023-04-03",
+    "time": "19:00"
+  },
+  {
+    "title": "KINKY BOOTS",
+    "date": "2023-04-03",
+    "time": "19:30"
+  },
+  {
+    "title": "SCENES OF DOMESTIC VIOLENCE",
+    "date": "2023-04-04",
+    "time": "19:00"
+  },
+  {
+    "title": "MADAME",
+    "date": "2023-04-05",
+    "time": "19:00"
+  },
+  {
+    "title": "MADAME",
+    "date": "2023-04-06",
+    "time": "19:00"
+  },
+  {
+    "title": "ANTYGONA W MOLENBEEK",
+    "date": "2023-04-07",
+    "time": "19:30"
+  },
+  {
+    "title": "JEZIORO",
+    "date": "2023-04-08",
+    "time": "18:00"
+  },
+  {
+    "title": "PODWÓJNY Z FRYTKAMI",
+    "date": "2023-04-09",
+    "time": "19:30"
+  },
+  {
+    "title": "GĘSI – LUDZIE – ŁABĘDZIE | Antyutopia",
+    "date": "2023-04-10",
+    "time": "19:00"
+  },
+  {
+    "title": "EKSTREMIŚCI  ",
+    "date": "2023-04-11",
+    "time": "19:00"
+  },
+  {
+    "title": "MY YEAR OF REST AND RELAXATION",
+    "date": "2023-04-12",
+    "time": "19:30"
+  },
+  {
+    "title": "BOYS CRY",
+    "date": "2023-04-13",
+    "time": "19:30"
+  },
+  {
+    "title": "CHŁOPAKI PŁACZĄ",
+    "date": "2023-04-14",
+    "time": "17:00"
+  },
+  {
+    "title": "HORYZONTY 10 / otwarte archiwa / Piotr Cieplak",
+    "date": "2023-04-15",
+    "time": "19:00"
+  }
+]
+```
