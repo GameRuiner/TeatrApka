@@ -190,4 +190,121 @@
   },
   {
     "title": "THE HIGH JUMP",
-    "date": "20
+    "date": "203-05-03",
+"time": "19:30",
+"status": "Teatr bez barier",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "THE HIGH JUMP",
+"date": "2023-05-04",
+"time": "17:30",
+"status": "Teatr bez barier, Teatr przyjazny seniorom",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-08",
+"time": "19:30",
+"status": "Teatr bez barier",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-09",
+"time": "19:30",
+"status": "Teatr bez barier",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "THE MASTER AND MARGARITA",
+"date": "2023-05-09",
+"time": "18:00",
+"status": "",
+"place": "Scena Przodownik ul. Olesińska 21"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-10",
+"time": "19:30",
+"status": "Teatr bez barier",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "THE MASTER AND MARGARITA",
+"date": "2023-05-10",
+"time": "18:00",
+"status": "",
+"place": "Scena Przodownik ul. Olesińska 21"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-11",
+"time": "17:30",
+"status": "Teatr bez barier",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "THE MASTER AND MARGARITA",
+"date": "2023-05-11",
+"time": "18:00",
+"status": "Teatr przyjazny seniorom",
+"place": "Scena Przodownik ul. Olesińska 21"
+},
+{
+"title": "ANTIGONE IN MOLENBEEK",
+"date": "2023-05-13",
+"time": "19:30",
+"status": "Teatr bez barier, Napisy angielskie",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "ANTIGONE IN MOLENBEEK",
+"date": "2023-05-14",
+"time": "19:30",
+"status": "Teatr bez barier, Teatr przyjazny studentom",
+"place": "Mała Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "BĘDZIE TRZEBA TO PÓJDĘ NA WOJNĘ",
+"date": "2023-05-16",
+"time": "19:00",
+"status": "Premiera",
+"place": "Scena Przodownik ul. Olesińska 21"
+},
+{
+"title": "BĘDZIE TRZEBA TO PÓJDĘ NA WOJNĘ",
+"date": "2023-05-17",
+"time": "19:00",
+"status": "",
+"place": "Scena Przodownik ul. Olesińska 21"
+},
+{
+"title": "BĘDZIE TRZEBA TO PÓJDĘ NA WOJNĘ",
+"date": "2023-05-18",
+"time": "19:00",
+"status": "Teatr przyjazny studentom, Premiera studencka",
+"place": "Scena Przodownik ul. Olesińska 21"
+},
+{
+"title": "ANGELS IN WARSAW",
+"date": "2023-06-05",
+"time": "19:00",
+"status": "",
+"place": "Duża Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "ANGELS IN WARSAW",
+"date": "2023-06-06",
+"time": "19:00",
+"status": "",
+"place": "Duża Scena PKiN, pl. Defilad 1"
+},
+{
+"title": "ANGELS IN WARSAW",
+"date": "2023-06-07",
+"time": "19:00",
+"status": "",
+"place": "Duża Scena PKiN, pl. Defilad 1"
+}
+]
