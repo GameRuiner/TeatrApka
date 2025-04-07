@@ -1,0 +1,282 @@
+[
+    {
+        "title": "HORYZONTY / Halina i jej siostry /",
+        "date": "2023-04-07",
+        "time": "19:00",
+        "status": "",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "ANGELS IN WARSAW",
+        "date": "2023-04-08",
+        "time": "19:00",
+        "status": "TEATR PRZYJAZNY SENIOROM",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "ANGELS IN WARSAW",
+        "date": "2023-04-09",
+        "time": "19:00",
+        "status": "ENGLISH SUPERTITLES",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-04-10",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "KINKY BOOTS",
+        "date": "2023-04-11",
+        "time": "19:00",
+        "status": "",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-04-11",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "KINKY BOOTS",
+        "date": "2023-04-12",
+        "time": "19:00",
+        "status": "",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-04-12",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "KINKY BOOTS",
+        "date": "2023-04-13",
+        "time": "19:00",
+        "status": "ENGLISH SUPERTITLES",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-04-13",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "FERDYDURKE",
+        "date": "2023-04-15",
+        "time": "18:00",
+        "status": "",
+        "place": "Scena Przodownik \nul. Olesińska 21"
+    },
+    {
+        "title": "LOVE AT LAST SIGHT",
+        "date": "2023-04-16",
+        "time": "19:30",
+        "status": "TEATR PRZYJAZNY STUDENTOM, TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "FERDYDURKE",
+        "date": "2023-04-16",
+        "time": "18:00",
+        "status": "TEATR PRZYJAZNY STUDENTOM",
+        "place": "Scena Przodownik \nul. Olesińska 21"
+    },
+    {
+        "title": "LOVE AT LAST SIGHT",
+        "date": "2023-04-17",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "FERDYDURKE",
+        "date": "2023-04-17",
+        "time": "18:00",
+        "status": "TEATR PRZYJAZNY STUDENTOM",
+        "place": "Scena Przodownik \nul. Olesińska 21"
+    },
+    {
+        "title": "NASZE CZASY",
+        "date": "2023-04-23",
+        "time": "19:30",
+        "status": "TEATR PRZYJAZNY SENIOROM, TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "NASZE CZASY",
+        "date": "2023-04-24",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "THE MASTER AND MARGARITA",
+        "date": "2023-04-25",
+        "time": "18:00",
+        "status": "",
+        "place": "Scena Przodownik \nul. Olesińska 21"
+    },
+    {
+        "title": "PODWÓJNY Z FRYTKAMI",
+        "date": "2023-04-26",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "THE MASTER AND MARGARITA",
+        "date": "2023-04-26",
+        "time": "18:00",
+        "status": "",
+        "place": "Scena Przodownik \nul. Olesińska 21"
+    },
+    {
+        "title": "PODWÓJNY Z FRYTKAMI",
+        "date": "2023-04-27",
+        "time": "17:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "THE MASTER AND MARGARITA",
+        "date": "2023-04-27",
+        "time": "18:00",
+        "status": "",
+        "place": "Scena Przodownik \nul. Olesińska 21"
+    },
+    {
+        "title": "HORYZONTY / spis treści /",
+        "date": "2023-04-28",
+        "time": "19:00",
+        "status": "",
+        "place": "Duża Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "THE HIGH JUMP",
+        "date": "2023-05-03",
+        "time": "19:30",
+        "status": "TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "THE HIGH JUMP",
+        "date": "2023-05-04",
+        "time": "17:30",
+        "status": "TEATR PRZYJAZNY SENIOROM, TEATR BEZ BARRIERS",
+        "place": "Mała Scena \nPKiN, pl. Defilad 1"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date":"2023-05-08",
+"time": "19:30",
+"status": "TEATR BEZ BARRIERS",
+"place": "Mała Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "THE MASTER AND MARGARITA",
+"date": "2023-05-09",
+"time": "18:00",
+"status": "",
+"place": "Scena Przodownik \nul. Olesińska 21"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-09",
+"time": "19:30",
+"status": "TEATR BEZ BARRIERS",
+"place": "Mała Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "THE MASTER AND MARGARITA",
+"date": "2023-05-10",
+"time": "18:00",
+"status": "",
+"place": "Scena Przodownik \nul. Olesińska 21"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-10",
+"time": "19:30",
+"status": "TEATR BEZ BARRIERS",
+"place": "Mała Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "THE MASTER AND MARGARITA",
+"date": "2023-05-11",
+"time": "18:00",
+"status": "TEATR PRZYJAZNY SENIOROM",
+"place": "Scena Przodownik \nul. Olesińska 21"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2023-05-11",
+"time": "17:30",
+"status": "TEATR BEZ BARRIERS",
+"place": "Mała Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "ANTIGONE IN MOLENBEEK",
+"date": "2023-05-13",
+"time": "19:30",
+"status": "ENGLISH SUPERTITLES, TEATR BEZ BARRIERS",
+"place": "Mała Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "ANTIGONE IN MOLENBEEK",
+"date": "2023-05-14",
+"time": "19:30",
+"status": "TEATR PRZYJAZNY STUDENTOM, TEATR BEZ BARRIERS",
+"place": "Mała Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "BĘDZIE TRZEBA TO PÓJDĘ NA WOJNĘ",
+"date": "2023-05-16",
+"time": "19:00",
+"status": "Premiere",
+"place": "Scena Przodownik \nul. Olesińska 21"
+},
+{
+"title": "BĘDZIE TRZEBA TO PÓJDĘ NA WOJNĘ",
+"date": "2023-05-17",
+"time": "19:00",
+"status": "",
+"place": "Scena Przodownik \nul. Olesińska 21"
+},
+{
+"title": "BĘDZIE TRZEBA TO PÓJDĘ NA WOJNĘ",
+"date": "2023-05-18",
+"time": "19:00",
+"status": "TEATR PRZYJAZNY STUDENTOM, Premiera studencka",
+"place": "Scena Przodownik \nul. Olesińska 21"
+},
+{
+"title": "ANGELS IN WARSAW",
+"date": "2023-06-05",
+"time": "19:00",
+"status": "",
+"place": "Duża Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "ANGELS IN WARSAW",
+"date": "2023-06-06",
+"time": "19:00",
+"status": "",
+"place": "Duża Scena \nPKiN, pl. Defilad 1"
+},
+{
+"title": "ANGELS IN WARSAW",
+"date": "2023-06-07",
+"time": "19:00",
+"status": "",
+"place": "Duża Scena \nPKiN, pl. Defilad 1"
+}
+]
