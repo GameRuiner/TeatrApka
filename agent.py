@@ -1,9 +1,5 @@
-import getpass
-import os
-from langchain.chat_models import init_chat_model
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 import requests
-from dotenv import load_dotenv
 from bs4 import BeautifulSoup, Comment
 import re
 import json
@@ -43,11 +39,10 @@ def clean_html_for_llm(url):
 
 def extract_pure_json(text: str) -> str:
     """Extract JSON content from text that might be wrapped in markdown code blocks."""
-    import re
-    json_pattern = r"```(?:json)?\s*([\s\S]*?)```"
+    json_pattern = r"```(?:json)?\s*([\s\S]*?)```|```(?:json)?\s*([\s\S]*)"
     match = re.search(json_pattern, text)
     if match:
-        return match.group(1).strip()
+        return (match.group(1) or match.group(2)).strip()
     return text.strip()
 
 def is_json_complete(text: str) -> bool:
