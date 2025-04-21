@@ -133,12 +133,8 @@ def get_repertoire_links(links, model):
     response = model.invoke(messages)
     try:
         response_content = response.content
-        print(response_content)
-        json_match = re.search(r'({[\s\S]*})', response_content)
-        if json_match:
-            response_json = json.loads(json_match.group(1))
-        else:
-            response_json = json.loads(response_content)
+        response_pure = extract_pure_json(response_content)
+        response_json = json.loads(response_pure)
         return response_json
     except Exception as e:
         print(f"Error parsing LLM response: {e}")
