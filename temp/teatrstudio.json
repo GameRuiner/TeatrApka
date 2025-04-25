@@ -1,0 +1,323 @@
+[
+    {
+        "title": "Magazyn „Pismo” w Studio #25",
+        "date": "2025-04-02",
+        "time": "18:00",
+        "status": "DEBATA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Ekspedycja: Burza",
+        "date": "2025-04-03",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Metafizyka dwugłowego cielęcia",
+        "date": "2025-04-05",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Metafizyka dwugłowego cielęcia",
+        "date": "2025-04-06",
+        "time": "16:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Metafizyka dwugłowego cielęcia",
+        "date": "2025-04-06",
+        "time": "19:30",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Ekspedycja: Burza",
+        "date": "2025-04-08",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Krąg osób",
+        "date": "2025-04-09",
+        "time": "18:30",
+        "status": "#EDU",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Stara kobieta wysiaduje",
+        "date": "2025-04-09",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Serce ze szkła. Musical zen",
+        "date": "2025-04-10",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Krąg mężczyzn",
+        "date": "2025-04-10",
+        "time": "18:30",
+        "status": "#EDU",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Serce ze szkła. Musical zen",
+        "date": "2025-04-11",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Serce ze szkła. Musical zen",
+        "date": "2025-04-12",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Stara kobieta wysiaduje",
+        "date": "2025-04-12",
+        "time": "16:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Serce ze szkła. Musical zen",
+        "date": "2025-04-13",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Ekspedycja: Burza",
+        "date": "2025-04-13",
+        "time": "16:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-14",
+        "time": "18:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Klif",
+        "date": "2025-04-15",
+        "time": "19:00",
+        "status": "B’CAUSE DANCE COMPANY / Gościnnie",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-15",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Powrót Tamary",
+        "date": "2025-04-16",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-16",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Powrót Tamary",
+        "date": "2025-04-17",
+        "time": "18:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-17",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Powrót Tamary",
+        "date": "2025-04-17",
+        "time": "21:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-18",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-19",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Oriana Fallaci",
+        "date": "2025-04-21",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-22",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Teatr od kulis dla dorosłych z tłumaczeniem na PJM",
+        "date": "2025-04-23",
+        "time": "18:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Asklepiejony / Asclepieia",
+        "date": "2025-04-23",
+        "time": "12:00",
+        "status": "WYSTAWA",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "The Employees",
+        "date": "2025-04-24",
+        "time": "19:00",
+        "status": "SPEKTAKL",
+        "place": "DUŻA SCENA"
+    },
+    {
+        "title": "Polska i Niemcy - to skomplikowane? Wspólna historia,","date": "2025-04-24",
+"time": "18:00",
+"status": "Dyskusja panelowa",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Asklepiejony / Asclepieia",
+"date": "2025-04-24",
+"time": "12:00",
+"status": "WYSTAWA",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Byk",
+"date": "2025-04-24",
+"time": "19:00",
+"status": "SPEKTAKL",
+"place": "KATOWICE, TEATR ŚLĄSKI"
+},
+{
+"title": "The Employees",
+"date": "2025-04-25",
+"time": "19:00",
+"status": "SPEKTAKL",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Oriana Fallaci",
+"date": "2025-04-25",
+"time": "19:00",
+"status": "SPEKTAKL",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Asklepiejony / Asclepieia",
+"date": "2025-04-25",
+"time": "12:00",
+"status": "WYSTAWA",
+"place": "DUŻA SCENA"
+},
+{
+"title": "THE MET: LIVE IN HD 2024/2025",
+"date": "2025-04-26",
+"time": "18:30",
+"status": "OPERA",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Oriana Fallaci",
+"date": "2025-04-26",
+"time": "16:00",
+"status": "SPEKTAKL",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Dobrawa Borkała, warsztaty SYMFONII ODDECHOWEJ",
+"date": "2025-04-26",
+"time": "12:00",
+"status": "Warsztaty",
+"place": "DUŻA SCENA"
+},
+{
+"title": "The Employees",
+"date": "2025-04-26",
+"time": "19:00",
+"status": "SPEKTAKL",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Asklepiejony / Asclepieia",
+"date": "2025-04-26",
+"time": "12:00",
+"status": "WYSTAWA",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Stara kobieta wysiaduje",
+"date": "2025-04-27",
+"time": "17:00",
+"status": "SPEKTAKL",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Asklepiejony / Asclepieia",
+"date": "2025-04-27",
+"time": "12:00",
+"status": "WYSTAWA",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Oriana Fallaci",
+"date": "2025-04-27",
+"time": "19:00",
+"status": "SPEKTAKL",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Asklepiejony / Asclepieia",
+"date": "2025-04-29",
+"time": "12:00",
+"status": "WYSTAWA",
+"place": "DUŻA SCENA"
+},
+{
+"title": "Asklepiejony / Asclepieia",
+"date": "2025-04-30",
+"time": "12:00",
+"status": "WYSTAWA",
+"place": "DUŻA SCENA"
+}
+]

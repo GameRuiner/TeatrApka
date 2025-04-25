@@ -89,23 +89,21 @@ def parse_repertoires_from_page(html_content: str, model) -> list[dict]:
     SystemMessage(system_message),
     HumanMessage(html_content)
     ]
-
     full_response = ""
     max_loops = 5
     loop_count = 0
-
     while loop_count < max_loops:
         response = model.invoke(messages)
-        full_response += extract_pure_json(response.content)
+        pure_json = extract_pure_json(response.content)
+        if full_response and pure_json[0] == '"' and full_response[-2:] != '",':
+            full_response += '",'
+        full_response += pure_json
         if is_json_complete(full_response):
             break
-
         print(f"⚠️ Detected incomplete JSON... requesting continuation (attempt {loop_count + 1})")
-
         messages.append(AIMessage(response.content))
         messages.append(HumanMessage("Please continue from where you left off. Only continue the JSON."))
         loop_count += 1
-    
     return full_response
 
 def get_repertoire_links(links, model):
