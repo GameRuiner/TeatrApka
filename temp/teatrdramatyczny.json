@@ -1,205 +1,191 @@
 [
     {
-        "title": "NASZE CZASY",
-        "date": "2023-04-23",
-        "time": "19:30",
-        "status": "TEATR PRZYJAZNY SENIOROM",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "NASZE CZASY",
-        "date": "2023-04-24",
-        "time": "19:30",
-        "status": "",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
-    },
-    {
         "title": "MISTRZ I MAŁGORZATA",
         "date": "2023-04-25",
         "time": "18:00",
         "status": "",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "place": "Scena Przodownik, ul. Olesińska 21"
+    },
+    {
+        "title": "MISTRZ I MAŁGORZATA",
+        "date": "2023-04-26",
+        "time": "18:00",
+        "status": "",
+        "place": "Scena Przodownik, ul. Olesińska 21"
     },
     {
         "title": "PODWÓJNY Z FRYTKAMI",
         "date": "2023-04-26",
         "time": "19:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-04-26",
+        "date": "2023-04-27",
         "time": "18:00",
         "status": "",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "place": "Scena Przodownik, ul. Olesińska 21"
     },
     {
         "title": "PODWÓJNY Z FRYTKAMI",
         "date": "2023-04-27",
         "time": "17:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-04-27",
-        "time": "18:00",
-        "status": "",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "HORYZONTY 12 / spis treści / Anthony Passeron",
         "date": "2023-04-28",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "SKOK WZWYŻ",
         "date": "2023-05-03",
         "time": "19:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "SKOK WZWYŻ",
         "date": "2023-05-04",
         "time": "17:30",
-        "status": "TEATR PRZYJAZNY SENIOROM, TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "status": "Teatr bez barier, Teatr przyjazny seniorom",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
         "date": "2023-05-08",
         "time": "19:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-09",
-        "time": "19:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "MISTRZ I MAŁGORZATA",
         "date": "2023-05-09",
         "time": "18:00",
         "status": "",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "place": "Scena Przodownik, ul. Olesińska 21"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-05-09",
+        "time": "19:30",
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "THE WALL",
         "date": "2023-05-10",
         "time": "19:00",
         "status": "Premiera",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-10",
-        "time": "19:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "MISTRZ I MAŁGORZATA",
         "date": "2023-05-10",
         "time": "18:00",
         "status": "",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "place": "Scena Przodownik, ul. Olesińska 21"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-05-10",
+        "time": "19:30",
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "THE WALL",
         "date": "2023-05-11",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-11",
-        "time": "17:30",
-        "status": "TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "MISTRZ I MAŁGORZATA",
         "date": "2023-05-11",
         "time": "18:00",
-        "status": "TEATR PRZYJAZNY SENIOROM",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "status": "Teatr przyjazny seniorom",
+        "place": "Scena Przodownik, ul. Olesińska 21"
+    },
+    {
+        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+        "date": "2023-05-11",
+        "time": "17:30",
+        "status": "Teatr bez barier",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "HORYZONTY 13 / na marginesach / Obrazy wojny",
         "date": "2023-05-12",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "THE WALL",
         "date": "2023-05-13",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "ANTYGONA W MOLENBEEK",
         "date": "2023-05-13",
         "time": "19:30",
-        "status": "ENGLISH SUPERTITLES, TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "status": "Teatr bez barier, Napisy angielskie",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "ANTYGONA W MOLENBEEK",
         "date": "2023-05-14",
         "time": "19:30",
-        "status": "TEATR PRZYJAZNY STUDENTOM, TEATR BEZ BARIER",
-        "place": "Mała Scena PKiN, pl. Defilad 1"
+        "status": "Teatr bez barier, Teatr przyjazny studentom",
+        "place": "Mała Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
         "date": "2023-05-16",
         "time": "19:00",
         "status": "Premiera",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "place": "Scena Przodownik, ul. Olesińska 21"
     },
     {
         "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
         "date": "2023-05-17",
         "time": "19:00",
         "status": "",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "place": "Scena Przodownik, ul. Olesińska 21"
     },
     {
         "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
         "date": "2023-05-18",
         "time": "19:00",
-        "status": "TEATR PRZYJAZNY STUDENTOM, Premiera studentna",
-        "place": "Scena Przodownik ul. Olesińska 21"
+        "status": "Teatr przyjazny studentom, Premiera studencka",
+        "place": "Scena Przodownik, ul. Olesińska 21"
     },
     {
         "title": "ANIOŁY W WARSZAWIE",
         "date": "2023-06-05",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     },
     {
         "title": "ANIOŁY W WARSZAWIE",
         "date": "2023-06-06",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defil1"
     },
     {
         "title": "ANIOŁY W WARSZAWIE",
         "date": "2023-06-07",
         "time": "19:00",
         "status": "",
-        "place": "Duża Scena PKiN, pl. Defilad 1"
+        "place": "Duża Scena, PKiN, pl. Defilad 1"
     }
 ]

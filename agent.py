@@ -140,38 +140,6 @@ def get_repertoire_links(links, model):
         print(f"Error parsing LLM response: {e}")
         return []
 
-
-def get_repertoire_links(links, model):
-    links_text = "\n".join([f"{i+1}. {link['text']} - {link['url']}" for i, link in enumerate(links[:30])])
-    prompt = f"""
-    Which of these links is most likely to lead to a page with the theater's repertoire/program/schedule of performances?
-    Respond with JSON in this format:
-    [
-        {{
-            "url": "https://example.com/link",
-            "confidence": 0.9  // A score between 0-1 indicating confidence this link leads to repertoire
-        }}
-    ]
-    
-    Only include links with confidence > 0.5. Sort by confidence descending.    
-    """
-    human_message = f"""
-    Available links on the page:
-    {links_text}
-    """
-    messages = [
-        SystemMessage(prompt),
-        HumanMessage(human_message)
-    ]
-    response = model.invoke(messages)
-    try:
-        response_content = response.content
-        response_json = json.loads(response_content)
-        return response_json
-    except Exception as e:
-        print(f"Error parsing LLM response: {e}")
-        return []
-
 def identify_page_and_get_repertoire_links(page_text, links, model):
     """
     Ask the LLM to identify if this is a repertoire page and/or suggest links to repertoire pages
