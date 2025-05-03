@@ -1,323 +1,457 @@
 [
-    {
-        "title": "Magazyn „Pismo” w Studio #25",
-        "date": "2025-04-02",
-        "time": "18:00",
-        "status": "DEBATA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Ekspedycja: Burza",
-        "date": "2025-04-03",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Metafizyka dwugłowego cielęcia",
-        "date": "2025-04-05",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Metafizyka dwugłowego cielęcia",
-        "date": "2025-04-06",
-        "time": "16:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Metafizyka dwugłowego cielęcia",
-        "date": "2025-04-06",
-        "time": "19:30",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Ekspedycja: Burza",
-        "date": "2025-04-08",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Krąg osób",
-        "date": "2025-04-09",
-        "time": "18:30",
-        "status": "#EDU",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Stara kobieta wysiaduje",
-        "date": "2025-04-09",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Serce ze szkła. Musical zen",
-        "date": "2025-04-10",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Krąg mężczyzn",
-        "date": "2025-04-10",
-        "time": "18:30",
-        "status": "#EDU",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Serce ze szkła. Musical zen",
-        "date": "2025-04-11",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Serce ze szkła. Musical zen",
-        "date": "2025-04-12",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Stara kobieta wysiaduje",
-        "date": "2025-04-12",
-        "time": "16:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Serce ze szkła. Musical zen",
-        "date": "2025-04-13",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Ekspedycja: Burza",
-        "date": "2025-04-13",
-        "time": "16:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-14",
-        "time": "18:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Klif",
-        "date": "2025-04-15",
-        "time": "19:00",
-        "status": "B’CAUSE DANCE COMPANY / Gościnnie",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-15",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Powrót Tamary",
-        "date": "2025-04-16",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-16",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Powrót Tamary",
-        "date": "2025-04-17",
-        "time": "18:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-17",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Powrót Tamary",
-        "date": "2025-04-17",
-        "time": "21:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-18",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-19",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Oriana Fallaci",
-        "date": "2025-04-21",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-22",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Teatr od kulis dla dorosłych z tłumaczeniem na PJM",
-        "date": "2025-04-23",
-        "time": "18:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Asklepiejony / Asclepieia",
-        "date": "2025-04-23",
-        "time": "12:00",
-        "status": "WYSTAWA",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "The Employees",
-        "date": "2025-04-24",
-        "time": "19:00",
-        "status": "SPEKTAKL",
-        "place": "DUŻA SCENA"
-    },
-    {
-        "title": "Polska i Niemcy - to skomplikowane? Wspólna historia,","date": "2025-04-24",
-"time": "18:00",
-"status": "Dyskusja panelowa",
-"place": "DUŻA SCENA"
+{
+    "title": "Serce ze szkła. Musical zen",
+    "date": "2025-05-02",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 43",
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Asklepiejony / Asclepieia",
-"date": "2025-04-24",
-"time": "12:00",
-"status": "WYSTAWA",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-02",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "Byk",
-"date": "2025-04-24",
-"time": "19:00",
-"status": "SPEKTAKL",
-"place": "KATOWICE, TEATR ŚLĄSKI"
+    "title": "Serce ze szkła. Musical zen",
+    "date": "2025-05-03",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 44",
+    "place": "DUŻA SCENA"
 },
 {
-"title": "The Employees",
-"date": "2025-04-25",
-"time": "19:00",
-"status": "SPEKTAKL",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-03",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "Oriana Fallaci",
-"date": "2025-04-25",
-"time": "19:00",
-"status": "SPEKTAKL",
-"place": "DUŻA SCENA"
+    "title": "Serce ze szkła. Musical zen",
+    "date": "2025-05-04",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 45",
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Asklepiejony / Asclepieia",
-"date": "2025-04-25",
-"time": "12:00",
-"status": "WYSTAWA",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-04",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "THE MET: LIVE IN HD 2024/2025",
-"date": "2025-04-26",
-"time": "18:30",
-"status": "OPERA",
-"place": "DUŻA SCENA"
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-05",
+    "time": "13:30",
+    "status": null,
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Oriana Fallaci",
-"date": "2025-04-26",
-"time": "16:00",
-"status": "SPEKTAKL",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-06",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "Dobrawa Borkała, warsztaty SYMFONII ODDECHOWEJ",
-"date": "2025-04-26",
-"time": "12:00",
-"status": "Warsztaty",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-07",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "The Employees",
-"date": "2025-04-26",
-"time": "19:00",
-"status": "SPEKTAKL",
-"place": "DUŻA SCENA"
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-08",
+    "time": "19:00",
+    "status": null,
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Asklepiejony / Asclepieia",
-"date": "2025-04-26",
-"time": "12:00",
-"status": "WYSTAWA",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-08",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "Stara kobieta wysiaduje",
-"date": "2025-04-27",
-"time": "17:00",
-"status": "SPEKTAKL",
-"place": "DUŻA SCENA"
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-09",
+    "time": "19:00",
+    "status": null,
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Asklepiejony / Asclepieia",
-"date": "2025-04-27",
-"time": "12:00",
-"status": "WYSTAWA",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-09",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 },
 {
-"title": "Oriana Fallaci",
-"date": "2025-04-27",
-"time": "19:00",
-"status": "SPEKTAKL",
-"place": "DUŻA SCENA"
+    "title": "Aida",
+    "date": "2025-05-10",
+    "time": "18:30",
+    "status": null,
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Asklepiejony / Asclepieia",
-"date": "2025-04-29",
-"time": "12:00",
-"status": "WYSTAWA",
-"place": "DUŻA SCENA"
+    "title": "Stara kobieta wysiaduje",
+    "date": "2025-05-10",
+    "time": "16:00",
+    "status": "GRANY PO RAZ 33",
+    "place": "DUŻA SCENA"
 },
 {
-"title": "Asklepiejony / Asclepieia",
-"date": "2025-04-30",
-"time": "12:00",
-"status": "WYSTAWA",
-"place": "DUŻA SCENA"
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-10",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Polowanie na osy. Historia na śmierć i życie",
+    "date": "2025-05-10",
+    "time": "18:00",
+    "status": "GRANY PO RAZ 33",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Stara kobieta wysiaduje",
+    "date": "2025-05-11",
+    "time": "15:00",
+    "status": "GRANY PO RAZ 34",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-11",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-11",
+    "time": "19:30",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-12",
+    "time": "18:00",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-12",
+    "time": "20:30",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Stara kobieta wysiaduje",
+    "date": "2025-05-13",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 35",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-13",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Wyspa Jadłonomia",
+    "date": "2025-05-14",
+    "time": "12:00",
+    "status": "GRANY PO RAZ 52",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-14",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Krąg osób",
+    "date": "2025-05-14",
+    "time": "18:30",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Wyspa Jadłonomia",
+    "date": "2025-05-15",
+    "time": "12:00",
+    "status": "GRANY PO RAZ 53",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-15",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Krąg mężczyzn",
+    "date": "2025-05-15",
+    "time": "18:30",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Wyspa Jadłonomia",
+    "date": "2025-05-16",
+    "time": "12:00",
+    "status": "GRANY PO RAZ 54",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-16",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Alpha Go_Lee: Theory of Sacrifice",
+    "date": "2025-05-17",
+    "time": "10:00",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Wyspa Jadłonomia",
+    "date": "2025-05-17",
+    "time": "16:00",
+    "status": "GRANY PO RAZ 55",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-17",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "THE MET: LIVE IN HD 2024/2025",
+    "date": "2025-05-17",
+    "time": "18:30",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-18",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Homesick | Sick Home",
+    "date": "2025-05-20",
+    "time": "19:00",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-20",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "„Sztuka kręcenia nosem. O świadomym odbiorze bodźców zapachowych”, wykład Katarzyny Białousz",
+    "date": "2025-05-20",
+    "time": "18:00",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Stara kobieta wysiaduje",
+    "date": "2025-05-21",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 36",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-21",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-22",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Mahagonny. Ein Songspiel / Afterparty",
+    "date": "2025-05-23",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 13",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-23",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Mahagonny. Ein Songspiel / Afterparty",
+    "date": "2025-05-24",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 14",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Ekspedycja: Burza",
+    "date": "2025-05-24",
+    "time": "16:00",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-24",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Mahagonny. Ein Songspiel / Afterparty",
+    "date": "2025-05-25",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 15",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Ekspedycja: Burza",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "XXXIV Seminarium Feministyczne",
+    "date": "2025-05-25",
+    "time": "12:00",
+    "status": null,
+    "place": "Galeria Studio"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-25",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-27",
+    "time": "17:30",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-27",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "2049: Witaj, Abdo",
+    "date": "2025-05-27",
+    "time": "20:30",
+    "status": null,
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Lotna ekipa teatralna",
+    "date": "2025-05-28",
+    "time": "16:30",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-28",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "„Baśń Oddechu”, performatywny wykład Danuty Milewskiej",
+    "date": "2025-05-28",
+    "time": "18:00",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Bowie w Warszawie",
+    "date": "2025-05-29",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 53",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-29",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "Bowie w Warszawie",
+    "date": "2025-05-30",
+    "time": "19:00",
+    "status": "GRANY PO RAZ 54",
+    "place": "DUŻA SCENA"
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-30",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
+},
+{
+    "title": "THE MET: LIVE IN HD 2024/2025",
+    "date": "2025-05-31",
+    "time": "18:30",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Zwiedzanie magazynu kostiumów oraz sesja fotograficzna z okazji dnia matki i dnia dziecka",
+    "date": "2025-05-31",
+    "time": "12:00",
+    "status": null,
+    "place": null
+},
+{
+    "title": "Asklepiejony / Asclepieia",
+    "date": "2025-05-31",
+    "time": "12:00",
+    "status": null,
+    "place": "GALERIA STUDIO"
 }
 ]

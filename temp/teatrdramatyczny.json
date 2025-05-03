@@ -1,191 +1,352 @@
 [
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-04-25",
-        "time": "18:00",
-        "status": "",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-04-26",
-        "time": "18:00",
-        "status": "",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "PODWÓJNY Z FRYTKAMI",
-        "date": "2023-04-26",
-        "time": "19:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-04-27",
-        "time": "18:00",
-        "status": "",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "PODWÓJNY Z FRYTKAMI",
-        "date": "2023-04-27",
-        "time": "17:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "HORYZONTY 12 / spis treści / Anthony Passeron",
-        "date": "2023-04-28",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "SKOK WZWYŻ",
-        "date": "2023-05-03",
-        "time": "19:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "SKOK WZWYŻ",
-        "date": "2023-05-04",
-        "time": "17:30",
-        "status": "Teatr bez barier, Teatr przyjazny seniorom",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-08",
-        "time": "19:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-05-09",
-        "time": "18:00",
-        "status": "",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-09",
-        "time": "19:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "THE WALL",
-        "date": "2023-05-10",
-        "time": "19:00",
-        "status": "Premiera",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-05-10",
-        "time": "18:00",
-        "status": "",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-10",
-        "time": "19:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "THE WALL",
-        "date": "2023-05-11",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "MISTRZ I MAŁGORZATA",
-        "date": "2023-05-11",
-        "time": "18:00",
-        "status": "Teatr przyjazny seniorom",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
-        "date": "2023-05-11",
-        "time": "17:30",
-        "status": "Teatr bez barier",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "HORYZONTY 13 / na marginesach / Obrazy wojny",
-        "date": "2023-05-12",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "THE WALL",
-        "date": "2023-05-13",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "ANTYGONA W MOLENBEEK",
-        "date": "2023-05-13",
-        "time": "19:30",
-        "status": "Teatr bez barier, Napisy angielskie",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "ANTYGONA W MOLENBEEK",
-        "date": "2023-05-14",
-        "time": "19:30",
-        "status": "Teatr bez barier, Teatr przyjazny studentom",
-        "place": "Mała Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
-        "date": "2023-05-16",
-        "time": "19:00",
-        "status": "Premiera",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
-        "date": "2023-05-17",
-        "time": "19:00",
-        "status": "",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
-        "date": "2023-05-18",
-        "time": "19:00",
-        "status": "Teatr przyjazny studentom, Premiera studencka",
-        "place": "Scena Przodownik, ul. Olesińska 21"
-    },
-    {
-        "title": "ANIOŁY W WARSZAWIE",
-        "date": "2023-06-05",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    },
-    {
-        "title": "ANIOŁY W WARSZAWIE",
-        "date": "2023-06-06",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defil1"
-    },
-    {
-        "title": "ANIOŁY W WARSZAWIE",
-        "date": "2023-06-07",
-        "time": "19:00",
-        "status": "",
-        "place": "Duża Scena, PKiN, pl. Defilad 1"
-    }
+{
+"title": "SKOK WZWYŻ",
+"date": "2024-05-03",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "SKOK WZWYŻ",
+"date": "2024-05-04",
+"time": "17:30",
+"status": "TEATR PRZYJAZNY SENIOROM",
+"place": "Duża Scena"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-05-08",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-05-09",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "MISTRZ I MAŁGORZATA",
+"date": "2024-05-09",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "THE WALL",
+"date": "2024-05-10",
+"time": "19:00",
+"status": "Premiera",
+"place": "Duża Scena"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-05-10",
+"time": "19:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "MISTRZ I MAŁGORZATA",
+"date": "2024-05-10",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "THE WALL",
+"date": "2024-05-11",
+"time": "19:00",
+"status": "TEATR PRZYJAZNY STUDENTOM",
+"place": "Duża Scena"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-05-11",
+"time": "17:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "MISTRZ I MAŁGORZATA",
+"date": "2024-05-11",
+"time": "18:00",
+"status": "TEATR PRZYJAZNY SENIOROM",
+"place": "Scena Przodownik"
+},
+{
+"title": "HORYZONTY 13 / na marginesach / Obrazy wojny",
+"date": "2024-05-12",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "THE WALL",
+"date": "2024-05-13",
+"time": "19:00",
+"status": "TEATR PRZYJAZNY SENIOROM",
+"place": "Duża Scena"
+},
+{
+"title": "ANTYGONA W MOLENBEEK",
+"date": "2024-05-13",
+"time": "19:30",
+"status": "ENGLISH SUPERTITLES",
+"place": "Mała Scena"
+},
+{
+"title": "ANTYGONA W MOLENBEEK",
+"date": "2024-05-14",
+"time": "19:30",
+"status": "TEATR PRZYJAZNY STUDENTOM",
+"place": "Mała Scena"
+},
+{
+"title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+"date": "2024-05-16",
+"time": "19:00",
+"status": "Premiera",
+"place": "Duża Scena"
+},
+{
+"title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+"date": "2024-05-17",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+"date": "2024-05-18",
+"time": "19:00",
+"status": "TEATR PRZYJAZNY STUDENTOM",
+"place": "Duża Scena"
+},
+{
+"title": "KRUK Z TOWER",
+"date": "2024-06-03",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "I ŻE CIĘ NIE OPUSZCZĘ",
+"date": "2024-06-03",
+"time": "19:00",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "KRUK Z TOWER",
+"date": "2024-06-04",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "ANIOŁY W WARSZAWIE",
+"date": "2024-06-05",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "ANIOŁY W WARSZAWIE",
+"date": "2024-06-06",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "ANIOŁY W WARSZAWIE",
+"date": "2024-06-07",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "SZCZĘŚLIWE DNI",
+"date": "2024-06-07",
+"time": "19:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+"date": "2024-06-07",
+"time": "19:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "SZCZĘŚLIWE DNI",
+"date": "2024-06-08",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+"date": "2024-06-08",
+"time": "19:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "KINKY BOOTS",
+"date": "2024-06-11",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "JEZIORO",
+"date": "2024-06-11",
+"time": "19:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "KINKY BOOTS",
+"date": "2024-06-12",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-06-13",
+"time": "19:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "KINKY BOOTS",
+"date": "2024-06-13",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "FERDYDURKE",
+"date": "2024-06-14",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-06-14",
+"time": "19:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+"date": "2024-06-15",
+"time": "17:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "FERDYDURKE",
+"date": "2024-06-15",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "THE WALL",
+"date": "2024-06-18",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "MISTRZ I MAŁGORZATA",
+"date": "2024-06-20",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "THE WALL",
+"date": "2024-06-20",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "PODWÓJNY Z FRYTKAMI",
+"date": "2024-06-21",
+"time": "19:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "MISTRZ I MAŁGORZATA",
+"date": "2024-06-21",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "THE WALL",
+"date": "2024-06-21",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "PODWÓJNY Z FRYTKAMI",
+"date": "2024-06-22",
+"time": "19:30",
+"status": null,
+"place": "Mała Scena"
+},
+{
+"title": "MISTRZ I MAŁGORZATA",
+"date": "2024-06-22",
+"time": "18:00",
+"status": null,
+"place": "Scena Przodownik"
+},
+{
+"title": "THE WALL",
+"date": "2024-06-22",
+"time": "17:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "DZIWNY PRZYPADEK PSA NOCNĄ PORĄ",
+"date": "2024-06-25",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "DZIWNY PRZYPADEK PSA NOCNĄ PORĄ",
+"date": "2024-06-26",
+"time": "19:00",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "CHŁOPAKI PŁACZĄ",
+"date": "2024-06-27",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+},
+{
+"title": "CHŁOPAKI PŁACZĄ",
+"date": "2024-06-28",
+"time": "19:30",
+"status": null,
+"place": "Duża Scena"
+}
 ]

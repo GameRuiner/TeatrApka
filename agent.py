@@ -1,4 +1,4 @@
-from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
+from langchain_core.messages import HumanMessage, SystemMessage
 import requests
 from bs4 import BeautifulSoup, Comment
 import re
@@ -67,44 +67,6 @@ def extract_links_from_page(html_content, base_url):
         links.append({"url": full_url, "text": text})
     
     return links
-
-def parse_repertoires_from_page(html_content: str, model) -> list[dict]:
-    """Parse the given HTML and return a JSON list of repertoire items found on the page."""
-    system_message = """
-        I will provide you with an HTML snippet containing information about theater performances. Extract all performances, including their titles, dates, and times, and return the result as a JSON array with the following format:
-        ```
-        [
-        {
-            "title": "Performance name",
-            "date": "YYYY-MM-DD",
-            "time": "HH:MM",
-            "status": "Performance status",
-            "place": "Performance place",
-        }
-        ]
-        ```
-        Do not include any extra text in the response—only return valid JSON.
-    """
-    messages = [
-    SystemMessage(system_message),
-    HumanMessage(html_content)
-    ]
-    full_response = ""
-    max_loops = 5
-    loop_count = 0
-    while loop_count < max_loops:
-        response = model.invoke(messages)
-        pure_json = extract_pure_json(response.content)
-        if full_response and pure_json[0] == '"' and full_response[-2:] != '",':
-            full_response += '",'
-        full_response += pure_json
-        if is_json_complete(full_response):
-            break
-        print(f"⚠️ Detected incomplete JSON... requesting continuation (attempt {loop_count + 1})")
-        messages.append(AIMessage(response.content))
-        messages.append(HumanMessage("Please continue from where you left off. Only continue the JSON."))
-        loop_count += 1
-    return full_response
 
 def get_repertoire_links(links, model):
     links_text = "\n".join([f"{i+1}. {link['text']} - {link['url']}" for i, link in enumerate(links[:30])])
