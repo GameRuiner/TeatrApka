@@ -6,7 +6,7 @@ import json
 from urllib.parse import urljoin
 
 def clean_html_for_llm(url):
-    response = requests.get(url)  
+    response = requests.get(url, verify=False)
     if response.status_code != 200:
         return f"Failed to retrieve content: {response.status_code}"
     html_content = response.text
