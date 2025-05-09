@@ -17,7 +17,7 @@
 "title": "Kochany, najukochańszy...",
 "date": "2025-05-07",
 "time": "19:30",
-"status": "Kup bilet",
+"status": "Sprzedaż zakończona",
 "place": "Scena Kameralna"
 },
 {
@@ -101,7 +101,7 @@
 "title": "Aktorzy w dobrej wierze i Próba",
 "date": "2025-05-15",
 "time": "12:00",
-"status": "Kup bilet",
+"status": "Bilety wyprzedane",
 "place": "Duża Scena"
 },
 {
@@ -150,7 +150,7 @@
 "title": "Przygody Koziołka Matołka",
 "date": "2025-05-18",
 "time": "16:00",
-"status": "Ostatnie bilety",
+"status": "Bilety wyprzedane",
 "place": "Scena Kameralna"
 },
 {
@@ -248,7 +248,7 @@
 "title": "Śluby panieńskie",
 "date": "2025-05-27",
 "time": "12:00",
-"status": "Bilety wyprzedane",
+"status": "Ostatnie bilety",
 "place": "Duża Scena"
 },
 {
@@ -278,6 +278,13 @@
 "time": "12:00",
 "status": "Bilety wyprzedane",
 "place": "Scena Kameralna"
+},
+{
+"title": "Pokaz Klubu Rozmów Poetyckich",
+"date": "2025-05-28",
+"time": "18:00",
+"status": "Kup bilet",
+"place": "Foyer Sceny Kameralnej"
 },
 {
 "title": "Mały Książę",
@@ -320,19 +327,5 @@
 "time": "16:00",
 "status": "Bilety wyprzedane",
 "place": "Scena Kameralna"
-},
-{
-"title": "Mały Książę",
-"date": "2025-06-01",
-"time": "12:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Historia Henryka IV",
-"date": "2025-06-01",
-"time": "17:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
 }
 ]
