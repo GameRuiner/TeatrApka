@@ -1,0 +1,219 @@
+[
+  {
+    "title": "MaMoMi",
+    "date": "2025-05-10",
+    "time": "10:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "MaMoMi",
+    "date": "2025-05-10",
+    "time": "11:30",
+    "status": "Brak biletów",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Elizabeth Costello | J.M. Coetzee",
+    "date": "2025-05-10",
+    "time": "18:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "MaMoMi",
+    "date": "2025-05-11",
+    "time": "10:00",
+    "status": "Brak biletów",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "MaMoMi",
+    "date": "2025-05-11",
+    "time": "11:30",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "MaMoMi",
+    "date": "2025-05-11",
+    "time": "13:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Elizabeth Costello | J.M. Coetzee",
+    "date": "2025-05-11",
+    "time": "18:00",
+    "status": "Brak biletów",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Solar. Rozmowy o przyszłości",
+    "date": "2025-05-12",
+    "time": "10:00",
+    "status": null,
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Przekłady współczesności: Roberto Bolaño Katarzyna Okrasko, Tomasz Pindel, Mateusz Górniak",
+    "date": "2025-05-12",
+    "time": "19:00",
+    "status": "Wstęp wolny",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Fobia",
+    "date": "2025-05-16",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "PREMIERA Norma Freeda",
+    "date": "2025-05-17",
+    "time": "17:00",
+    "status": "Brak biletów",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Fobia",
+    "date": "2025-05-17",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Norma Freeda",
+    "date": "2025-05-18",
+    "time": "15:00",
+    "status": "Brak biletów",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Norma Freeda",
+    "date": "2025-05-18",
+    "time": "18:00",
+    "status": "Brak biletów",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Fobia",
+    "date": "2025-05-18",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Threesome/Trzy",
+    "date": "2025-05-19",
+    "time": null,
+    "status": null,
+    "place": "39. Dni Sztuki Współczesnej, Białystok (Polska)"
+  },
+  {
+    "title": "Nowa książka: Dunaj. Chyłe pola Małgorzata Lebda oraz czwarte wymieranie Aga Zano",
+    "date": "2025-05-19",
+    "time": "19:00",
+    "status": "Wstęp wolny",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Goście Wieczerzy Pańskiej",
+    "date": "2025-05-22",
+    "time": null,
+    "status": null,
+    "place": "39. Dni Sztuki Współczesnej, Białystok (Polska)"
+  },
+  {
+    "title": "Języki przyszłości/Future Tongues",
+    "date": "2025-05-24",
+    "time": null,
+    "status": null,
+    "place": "Sophiensaele, Berlin (Niemcy)"
+  },
+  {
+    "title": "Obraz w rytmie. Warsztaty tworzenia ilustracji do muzyki",
+    "date": "2025-05-24",
+    "time": "12:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Threesome/Trzy",
+    "date": "2025-05-24",
+    "time": "20:00",
+    "status": "Kup bilet",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Języki przyszłości/Future Tongues",
+    "date": "2025-05-25",
+    "time": null,
+    "status": null,
+    "place": "Sophiensaele, Berlin (Niemcy)"
+  },
+  {
+    "title": "Fobia",
+    "date": "2025-05-25",
+    "time": null,
+    "status": null,
+    "place": "39. Dni Sztuki Współczesnej, Białystok (Polska)"
+  },
+  {
+    "title": "Krall i Warlikowski. Od Dybuka do Odysei",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "status": "Wstęp wolny",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Threesome/Trzy",
+    "date": "2025-05-25",
+    "time": "20:00",
+    "status": "Kup bilet",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Solar. Rozmowy o przyszłości",
+    "date": "2025-05-26",
+    "time": "10:00",
+    "status": null,
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Idiota. Projekcja opery",
+    "date": "2025-05-26",
+    "time": "19:00",
+    "status": "Wstęp wolny",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Nowa książka: Moja ukochana i ja. Ślub Renata Lis",
+    "date": "2025-05-27",
+    "time": "19:00",
+    "status": "Wstęp wolny",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Gdzie się kryją zmysły?",
+    "date": "2025-05-31",
+    "time": "11:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Gdzie się kryją zmysły?",
+    "date": "2025-05-31",
+    "time": "13:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  },
+  {
+    "title": "Gdzie się kryją zmysły?",
+    "date": "2025-05-31",
+    "time": "16:00",
+    "status": "Ostatnie bilety!",
+    "place": "Nowy Teatr"
+  }
+]

@@ -37,13 +37,14 @@ def clean_html_for_llm(url):
         content_str = re.sub(r'<([a-z0-9]+)>\s*</\1>', '', content_str, flags=re.IGNORECASE)
     return content_str
 
-def extract_pure_json(text: str) -> str:
+def extract_pure_json(text: str) -> list[dict]:
     """Extract JSON content from text that might be wrapped in markdown code blocks."""
     json_pattern = r"```(?:json)?\s*([\s\S]*?)```|```(?:json)?\s*([\s\S]*)"
     match = re.search(json_pattern, text)
     if match:
-        return (match.group(1) or match.group(2)).strip()
-    return text.strip()
+        json_text = (match.group(1) or match.group(2)).strip()
+        return json.loads(json_text)
+    return json.loads(text.strip())
 
 def is_json_complete(text: str) -> bool:
     try:
@@ -93,8 +94,7 @@ def get_repertoire_links(links, model):
     response = model.invoke(messages)
     try:
         response_content = response.content
-        response_pure = extract_pure_json(response_content)
-        response_json = json.loads(response_pure)
+        response_json = extract_pure_json(response_content)
         return response_json
     except Exception as e:
         print(f"Error parsing LLM response: {e}")

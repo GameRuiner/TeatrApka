@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 from agent import clean_html_for_llm, extract_links_from_page, get_repertoire_links
 from geminy_agent import parse_repertoires_from_page
 from google import genai
+import json
 
 load_dotenv();
 
@@ -25,6 +26,7 @@ def get_theatre_name(url):
     return main_part
 
 theatres = ["https://teatrdramatyczny.pl/", "https://www.teatr2strefa.pl", "https://teatrstudio.pl", "https://teatrpolski.waw.pl/", "https://www.wspolczesny.pl/"]
+theatres = ["https://nowyteatr.org/pl"]
 
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)
@@ -33,14 +35,19 @@ for theatre_url in theatres:
     links = extract_links_from_page(content, theatre_url)
     repertoire_links = get_repertoire_links(links, model)
 
-    if len(repertoire_links) > 0:
-        first_url = repertoire_links[0]
-        if first_url["confidence"] >= 0.7:
-            url = first_url['url']
-        else:
-            url = theatre_url
-        print(f"Repertoire link {url}")
-        content = clean_html_for_llm(url)   
+    for url_obj in repertoire_links:
+        url = url_obj["url"]
+        content = clean_html_for_llm(url)
         performances = parse_repertoires_from_page(content, client)
-        with open(f"temp/{theater_name}.json", "w") as file:
-            file.write(performances)
+        print(f"Under repertoire link {url} is {len(performances)} performances")
+        if len(performances) > 0:
+            with open(f"temp/{theater_name}.json", "w") as file:
+                json.dump(performances, file, ensure_ascii=False, indent=2)
+            break       
+
+    # if len(repertoire_links) > 0:
+    #     first_url = repertoire_links[0]
+    #     if first_url["confidence"] >= 0.7:
+    #         url = first_url['url']
+    #     else:
+    #         url = theatre_url
