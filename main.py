@@ -25,8 +25,15 @@ def get_theatre_name(url):
     main_part = domain.rsplit('.', 1)[0]
     return main_part
 
-theatres = ["https://teatrdramatyczny.pl/", "https://www.teatr2strefa.pl", "https://teatrstudio.pl", "https://teatrpolski.waw.pl/", "https://www.wspolczesny.pl/"]
-theatres = ["https://nowyteatr.org/pl"]
+theatres = [
+    "https://teatrdramatyczny.pl/", 
+    "https://www.teatr2strefa.pl", 
+    "https://teatrstudio.pl", 
+    "https://teatrpolski.waw.pl/", 
+    "https://www.wspolczesny.pl/",
+    "https://nowyteatr.org/pl"
+    ]
+theatres = ["https://teatrpolski.waw.pl/"]
 
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)

@@ -1,331 +1,331 @@
 [
-{
-"title": "Kochany, najukochańszy...",
-"date": "2025-05-04",
-"time": "18:00",
-"status": "Sprzedaż zakończona",
-"place": "Scena Kameralna"
-},
-{
-"title": "Kochany, najukochańszy...",
-"date": "2025-05-06",
-"time": "19:30",
-"status": "Sprzedaż zakończona",
-"place": "Scena Kameralna"
-},
-{
-"title": "Kochany, najukochańszy...",
-"date": "2025-05-07",
-"time": "19:30",
-"status": "Sprzedaż zakończona",
-"place": "Scena Kameralna"
-},
-{
-"title": "Prime Time",
-"date": "2025-05-09",
-"time": "19:30",
-"status": "Kup bilet",
-"place": "Scena Kameralna"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-10",
-"time": "19:00",
-"status": "Premiera",
-"place": "Duża Scena"
-},
-{
-"title": "Prime Time",
-"date": "2025-05-10",
-"time": "19:30",
-"status": "Kup bilet",
-"place": "Scena Kameralna"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-11",
-"time": "17:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Prime Time",
-"date": "2025-05-11",
-"time": "19:30",
-"status": "Kup bilet",
-"place": "Scena Kameralna"
-},
-{
-"title": "Klub Rozmów Poetyckich",
-"date": "2025-05-12",
-"time": "17:30",
-"status": "Bilety wyprzedane",
-"place": "Sale prób"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-13",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Separatka",
-"date": "2025-05-13",
-"time": "19:30",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-14",
-"time": "12:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-14",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Separatka",
-"date": "2025-05-14",
-"time": "19:30",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-15",
-"time": "12:00",
-"status": "Bilety wyprzedane",
-"place": "Duża Scena"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-15",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Separatka",
-"date": "2025-05-15",
-"time": "18:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Aktorzy w dobrej wierze i Próba",
-"date": "2025-05-16",
-"time": "12:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Przygody Koziołka Matołka",
-"date": "2025-05-17",
-"time": "16:00",
-"status": "Kup bilet",
-"place": "Scena Kameralna"
-},
-{
-"title": "Tango",
-"date": "2025-05-17",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Noc Muzeów w Teatrze Polskim - kurtyna w górę!",
-"date": "2025-05-17",
-"time": "21:30",
-"status": "Wstęp wolny",
-"place": null
-},
-{
-"title": "Przygody Koziołka Matołka",
-"date": "2025-05-18",
-"time": "16:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Tango",
-"date": "2025-05-18",
-"time": "17:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Przygody Koziołka Matołka",
-"date": "2025-05-20",
-"time": "10:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Przygody Koziołka Matołka",
-"date": "2025-05-20",
-"time": "12:30",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Tango",
-"date": "2025-05-20",
-"time": "12:00",
-"status": "Bilety wyprzedane",
-"place": "Duża Scena"
-},
-{
-"title": "Tango",
-"date": "2025-05-20",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Tango",
-"date": "2025-05-21",
-"time": "12:00",
-"status": "Bilety wyprzedane",
-"place": "Duża Scena"
-},
-{
-"title": "DEBATA: Pęta tradycyjnych ról społecznych i nasza „wolność do…”",
-"date": "2025-05-22",
-"time": "17:30",
-"status": "Wstęp wolny",
-"place": "Scena Kameralna"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-23",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-24",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Charków! Charków!",
-"date": "2025-05-24",
-"time": "19:30",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-25",
-"time": "17:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Charków! Charków!",
-"date": "2025-05-25",
-"time": "18:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Klub Rozmów Poetyckich",
-"date": "2025-05-26",
-"time": "17:30",
-"status": "Bilety wyprzedane",
-"place": "Sale prób"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-27",
-"time": "12:00",
-"status": "Ostatnie bilety",
-"place": "Duża Scena"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-27",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-28",
-"time": "12:00",
-"status": "Bilety wyprzedane",
-"place": "Duża Scena"
-},
-{
-"title": "Śluby panieńskie",
-"date": "2025-05-28",
-"time": "19:00",
-"status": "Kup bilet",
-"place": "Duża Scena"
-},
-{
-"title": "Mały Książę",
-"date": "2025-05-28",
-"time": "12:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Pokaz Klubu Rozmów Poetyckich",
-"date": "2025-05-28",
-"time": "18:00",
-"status": "Kup bilet",
-"place": "Foyer Sceny Kameralnej"
-},
-{
-"title": "Mały Książę",
-"date": "2025-05-29",
-"time": "10:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Mały Książę",
-"date": "2025-05-29",
-"time": "12:30",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Lekcja teatru online",
-"date": "2025-05-29",
-"time": "18:00",
-"status": "Kup bilet",
-"place": "Online"
-},
-{
-"title": "Mały Książę",
-"date": "2025-05-30",
-"time": "10:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Mały Książę",
-"date": "2025-05-30",
-"time": "12:30",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-},
-{
-"title": "Mały Książę",
-"date": "2025-05-31",
-"time": "16:00",
-"status": "Bilety wyprzedane",
-"place": "Scena Kameralna"
-}
+  {
+    "title": "Kochany, najukochańszy...",
+    "date": "2025-05-04",
+    "time": "18:00",
+    "status": "Sprzedaż zakończona",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Kochany, najukochańszy...",
+    "date": "2025-05-06",
+    "time": "19:30",
+    "status": "Sprzedaż zakończona",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Kochany, najukochańszy...",
+    "date": "2025-05-07",
+    "time": "19:30",
+    "status": "Sprzedaż zakończona",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Prime Time",
+    "date": "2025-05-09",
+    "time": "19:30",
+    "status": "Sprzedaż zakończona",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-10",
+    "time": "19:00",
+    "status": "Sprzedaż zakończona",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Prime Time",
+    "date": "2025-05-10",
+    "time": "19:30",
+    "status": "Sprzedaż zakończona",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-11",
+    "time": "17:00",
+    "status": "Sprzedaż zakończona",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Prime Time",
+    "date": "2025-05-11",
+    "time": "19:30",
+    "status": "Sprzedaż zakończona",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Klub Rozmów Poetyckich",
+    "date": "2025-05-12",
+    "time": "17:30",
+    "status": "Sprzedaż zakończona",
+    "place": "Sale prób"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-13",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Separatka",
+    "date": "2025-05-13",
+    "time": "19:30",
+    "status": "Ostatnie bilety",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-14",
+    "time": "12:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-14",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Separatka",
+    "date": "2025-05-14",
+    "time": "19:30",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-15",
+    "time": "12:00",
+    "status": "Bilety wyprzedane",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-15",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Separatka",
+    "date": "2025-05-15",
+    "time": "18:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Aktorzy w dobrej wierze i Próba Dwie jednoaktówki",
+    "date": "2025-05-16",
+    "time": "12:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Przygody Koziołka Matołka",
+    "date": "2025-05-17",
+    "time": "16:00",
+    "status": "Kup bilet",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Tango",
+    "date": "2025-05-17",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Noc Muzeów w Teatrze Polskim - kurtyna w górę!",
+    "date": "2025-05-17",
+    "time": "21:30",
+    "status": "Wstęp wolny",
+    "place": null
+  },
+  {
+    "title": "Przygody Koziołka Matołka",
+    "date": "2025-05-18",
+    "time": "16:00",
+    "status": "Kup bilet",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Tango",
+    "date": "2025-05-18",
+    "time": "17:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Przygody Koziołka Matołka",
+    "date": "2025-05-20",
+    "time": "10:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Przygody Koziołka Matołka",
+    "date": "2025-05-20",
+    "time": "12:30",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Tango",
+    "date": "2025-05-20",
+    "time": "12:00",
+    "status": "Bilety wyprzedane",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Tango",
+    "date": "2025-05-20",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Tango",
+    "date": "2025-05-21",
+    "time": "12:00",
+    "status": "Bilety wyprzedane",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "DEBATA: Pęta tradycyjnych ról społecznych i nasza „wolność do…”",
+    "date": "2025-05-22",
+    "time": "17:30",
+    "status": "Wstęp wolny",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-23",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-24",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Charków! Charków!",
+    "date": "2025-05-24",
+    "time": "19:30",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-25",
+    "time": "17:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Charków! Charków!",
+    "date": "2025-05-25",
+    "time": "18:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Klub Rozmów Poetyckich",
+    "date": "2025-05-26",
+    "time": "17:30",
+    "status": "Bilety wyprzedane",
+    "place": "Sale prób"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-27",
+    "time": "12:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-27",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-28",
+    "time": "12:00",
+    "status": "Bilety wyprzedane",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Śluby panieńskie",
+    "date": "2025-05-28",
+    "time": "19:00",
+    "status": "Kup bilet",
+    "place": "Duża Scena"
+  },
+  {
+    "title": "Mały Książę",
+    "date": "2025-05-28",
+    "time": "12:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Pokaz Klubu Rozmów Poetyckich",
+    "date": "2025-05-28",
+    "time": "18:00",
+    "status": "Kup bilet",
+    "place": "Foyer Sceny Kameralnej"
+  },
+  {
+    "title": "Mały Książę",
+    "date": "2025-05-29",
+    "time": "10:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Mały Książę",
+    "date": "2025-05-29",
+    "time": "12:30",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Lekcja teatru online",
+    "date": "2025-05-29",
+    "time": "18:00",
+    "status": "Kup bilet",
+    "place": "Online"
+  },
+  {
+    "title": "Mały Książę",
+    "date": "2025-05-30",
+    "time": "10:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Mały Książę",
+    "date": "2025-05-30",
+    "time": "12:30",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  },
+  {
+    "title": "Mały Książę",
+    "date": "2025-05-31",
+    "time": "16:00",
+    "status": "Bilety wyprzedane",
+    "place": "Scena Kameralna"
+  }
 ]

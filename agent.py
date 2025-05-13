@@ -1,15 +1,12 @@
 from langchain_core.messages import HumanMessage, SystemMessage
-import requests
 from bs4 import BeautifulSoup, Comment
 import re
 import json
 from urllib.parse import urljoin
+import subprocess
 
 def clean_html_for_llm(url):
-    response = requests.get(url, verify=False)
-    if response.status_code != 200:
-        return f"Failed to retrieve content: {response.status_code}"
-    html_content = response.text
+    html_content = subprocess.check_output(["curl", "-s", url])
     soup = BeautifulSoup(html_content, "html.parser")
     for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
         comment.extract()
