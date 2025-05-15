@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 import subprocess
 
 def clean_html_for_llm(url):
-    html_content = subprocess.check_output(["curl", "-s", url])
+    html_content = subprocess.check_output(["curl", "-sL", url])
     soup = BeautifulSoup(html_content, "html.parser")
     for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
         comment.extract()

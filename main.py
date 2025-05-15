@@ -31,9 +31,10 @@ theatres = [
     "https://teatrstudio.pl", 
     "https://teatrpolski.waw.pl/", 
     "https://www.wspolczesny.pl/",
-    "https://nowyteatr.org/pl"
+    "https://nowyteatr.org/pl",
+    "https://www.teatrpolonia.pl"
     ]
-theatres = ["https://www.teatrpolonia.pl"]
+theatres = ["https://teatr6pietro.pl"]
 
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)
@@ -44,9 +45,10 @@ for theatre_url in theatres:
 
     for url_obj in repertoire_links:
         url = url_obj["url"]
+        print(f"Repertoire link {url}")
         content = clean_html_for_llm(url)
         performances = parse_repertoires_from_page(content, client)
-        print(f"Under repertoire link {url} is {len(performances)} performances")
+        print(f"Found {len(performances)} performances")
         if len(performances) > 0:
             with open(f"temp/{theater_name}.json", "w") as file:
                 json.dump(performances, file, ensure_ascii=False, indent=2)
