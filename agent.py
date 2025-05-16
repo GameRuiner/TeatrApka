@@ -3,10 +3,16 @@ from bs4 import BeautifulSoup, Comment
 import re
 import json
 from urllib.parse import urljoin
-import subprocess
+from playwright.sync_api import sync_playwright
 
 def clean_html_for_llm(url):
-    html_content = subprocess.check_output(["curl", "-sL", url])
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(url)
+        page.wait_for_timeout(5000)
+        html_content = page.content()
+        browser.close()
     soup = BeautifulSoup(html_content, "html.parser")
     for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
         comment.extract()
