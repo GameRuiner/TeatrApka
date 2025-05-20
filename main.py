@@ -1,6 +1,6 @@
 import getpass
 import os
-from langchain.chat_models import init_chat_model
+from langchain_together import ChatTogether
 from dotenv import load_dotenv
 from urllib.parse import urlparse
 from agent import clean_html_for_llm, extract_links_from_page, get_repertoire_links
@@ -13,7 +13,7 @@ load_dotenv();
 if not os.environ.get("TOGETHER_API_KEY"):
     os.environ["TOGETHER_API_KEY"] = getpass.getpass("Enter API key for Together AI: ")
 
-model = init_chat_model("Qwen/Qwen2.5-Coder-32B-Instruct", model_provider="together")
+model = ChatTogether(model="Qwen/Qwen2.5-Coder-32B-Instruct")
 
 client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 
@@ -33,9 +33,10 @@ theatres = [
     "https://www.wspolczesny.pl/",
     "https://nowyteatr.org/pl",
     "https://www.teatrpolonia.pl",
-    "https://teatr6pietro.pl"
+    "https://teatr6pietro.pl",
+    "https://garnizonsztuki.org.pl"
     ]
-theatres = ["https://garnizonsztuki.org.pl"]
+theatres = ["https://teatr-rampa.pl"]
 
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)
