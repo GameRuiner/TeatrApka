@@ -34,9 +34,10 @@ theatres = [
     "https://nowyteatr.org/pl",
     "https://www.teatrpolonia.pl",
     "https://teatr6pietro.pl",
-    "https://garnizonsztuki.org.pl"
+    "https://garnizonsztuki.org.pl",
+    "https://teatr-rampa.pl"
     ]
-theatres = ["https://teatr-rampa.pl"]
+theatres = ["https://teatrwarsawy.pl"]
 
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)
