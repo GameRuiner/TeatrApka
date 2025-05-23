@@ -23,7 +23,7 @@ def clean_html_for_llm(url):
             element.extract()
     for element in soup.find_all(class_=True):
         classes = element.get('class')
-        if any(cls in str(classes).lower() for cls in ["hidden", "d-none", "hide", "invisible", "visually-hidden"]):
+        if any(cls in str(classes).lower() for cls in ["d-none", "hide", "invisible", "visually-hidden"]):
             element.extract()
     if soup.head:
         for tag in soup.head.find_all(['meta', 'link']):
