@@ -1,716 +1,632 @@
 [
   {
-    "title": "NIENASYCENI",
-    "date": "2024-05-15",
-    "time": "19:00",
-    "status": "WYPRZEDANE",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "NIENASYCENI",
-    "date": "2024-05-16",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "MOJA WERSJA PRAWDY",
-    "date": "2024-05-18",
-    "time": "15:30",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "MOJA WERSJA PRAWDY",
-    "date": "2024-05-18",
-    "time": "18:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "GDZIE JEST BUTELECZKA?",
-    "date": "2024-05-20",
-    "time": "10:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "GRA",
-    "date": "2024-05-20",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "POZYTYWNI",
-    "date": "2024-05-21",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "POZYTYWNI",
-    "date": "2024-05-22",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "NIC SIĘ NIE STAŁO",
-    "date": "2024-05-23",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "SAME PLUSY",
-    "date": "2024-05-24",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "SAME PLUSY",
-    "date": "2024-05-25",
-    "time": "18:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
-    "title": "GRA",
-    "date": "2024-05-27",
-    "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
-  },
-  {
     "title": "POZYTYWNI",
     "date": "2024-05-28",
     "time": "19:00",
-    "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "status": "WYPRZEDANE",
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-05-30",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-05-31",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-06-01",
     "time": "12:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-06-01",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VARIUS MANX & KASIA STANKIEWICZ – JUBILEUSZ 35 - LECIA ",
     "date": "2024-06-02",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-06-03",
     "time": "10:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-06-05",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-06-06",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "SAME PLUSY",
     "date": "2024-06-07",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "SAME PLUSY",
     "date": "2024-06-08",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "MOJA WERSJA PRAWDY",
     "date": "2024-06-09",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GRA",
     "date": "2024-06-12",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-06-13",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-06-14",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-06-15",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-06-18",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-06-19",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-06-22",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-06-24",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-06-25",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-06-26",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-06-27",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-06-28",
     "time": "17:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-06-28",
     "time": "19:30",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "MOJA WERSJA PRAWDY",
     "date": "2024-06-29",
     "time": "18:30",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-07-04",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-07-05",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-07-06",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GRA",
     "date": "2024-07-11",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GRA",
     "date": "2024-07-12",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-07-18",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-07-19",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-07-20",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-08-23",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-08-24",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GRA",
     "date": "2024-09-05",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-09-06",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-09-07",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-09-11",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-09-12",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-09-18",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-09-19",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-09-20",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-09-21",
     "time": "16:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-09-25",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-09-27",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-09-28",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "MUMIO - 25 LAT MUMIO W 25 GODZINACH",
     "date": "2024-09-30",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-10-03",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-10-04",
     "time": "16:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-10-04",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "VICTORIA / TRUE WOMAN SHOW",
     "date": "2024-10-05",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-10-08",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-10-16",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-10-17",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-10-18",
     "time": "17:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-10-18",
     "time": "19:30",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-10-19",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-10-21",
     "time": "10:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-10-22",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-10-23",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-10-26",
     "time": "12:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-10-26",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-11-12",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-11-13",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-11-15",
     "time": "17:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-11-15",
     "time": "19:30",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-11-16",
     "time": "12:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-11-16",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-11-21",
     "time": "10:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-11-26",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-11-27",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-11-28",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-11-29",
     "time": "16:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-11-30",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-12-03",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-12-04",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-12-05",
     "time": "10:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "POZYTYWNI",
     "date": "2024-12-05",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "GDZIE JEST BUTELECZKA?",
     "date": "2024-12-06",
     "time": "12:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-12-06",
     "time": "16:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-12-06",
     "time": "19:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIC SIĘ NIE STAŁO",
     "date": "2024-12-07",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-12-20",
     "time": "17:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-12-20",
     "time": "19:30",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIEPAMIĘĆ",
     "date": "2024-12-21",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-12-27",
     "time": "17:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-12-27",
     "time": "19:30",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   },
   {
     "title": "NIENASYCENI",
     "date": "2024-12-28",
     "time": "18:00",
     "status": "KUP BILET",
-    "place": "Garnizon Sztuki"
+    "place": "Teatr Garnizon Sztuki"
   }
 ]

@@ -1,51 +1,9 @@
 [
   {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-23",
-    "time": "19:00",
-    "status": "PREMIERA",
-    "place": "Duża scena"
-  },
-  {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-24",
-    "time": "19:00",
-    "status": null,
-    "place": "Duża scena"
-  },
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-25",
-    "time": "16:00",
-    "status": "Dla dzieci",
-    "place": "Scena kameralna"
-  },
-  {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-25",
-    "time": "19:00",
-    "status": null,
-    "place": "Duża scena"
-  },
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-27",
-    "time": "10:00",
-    "status": "Dla dzieci",
-    "place": "Scena kameralna"
-  },
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-27",
-    "time": "11:30",
-    "status": "Dla dzieci",
-    "place": "Scena kameralna"
-  },
-  {
     "title": "Dzień dziecka",
     "date": "2024-05-28",
     "time": "11:00",
-    "status": "Dla dzieci",
+    "status": null,
     "place": "Scena kameralna"
   },
   {
@@ -59,7 +17,7 @@
     "title": "Dzień dziecka",
     "date": "2024-05-29",
     "time": "11:00",
-    "status": "Dla dzieci",
+    "status": null,
     "place": "Scena kameralna"
   },
   {
@@ -73,7 +31,7 @@
     "title": "Dzień dziecka",
     "date": "2024-05-30",
     "time": "11:00",
-    "status": "Dla dzieci",
+    "status": null,
     "place": "Scena kameralna"
   },
   {
@@ -87,7 +45,7 @@
     "title": "Dzień dziecka",
     "date": "2024-05-31",
     "time": "16:00",
-    "status": "Dla dzieci",
+    "status": null,
     "place": "Scena kameralna"
   },
   {

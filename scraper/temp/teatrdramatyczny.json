@@ -1,0 +1,249 @@
+[
+  {
+    "title": "KRUK Z TOWER",
+    "date": "2024-06-03",
+    "time": "19:30",
+    "status": "ENGLISH SUPERTITLES",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "I ŻE CIĘ NIE OPUSZCZĘ",
+    "date": "2024-06-03",
+    "time": "19:00",
+    "status": "TEATR PRZYJAZNY STUDENTOM",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "Jeden Dzień / 4 czerwca 1989",
+    "date": "2024-06-04",
+    "time": "19:00",
+    "status": "KONCERT",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "KRUK Z TOWER",
+    "date": "2024-06-04",
+    "time": "19:30",
+    "status": "TEATR PRZYJAZNY SENIOROM",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "ANIOŁY W WARSZAWIE",
+    "date": "2024-06-05",
+    "time": "19:00",
+    "status": "ENGLISH SUPERTITLES",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "Zekameron",
+    "date": "2024-06-05",
+    "time": "19:00",
+    "status": "Spektakl gościnny",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "Zekameron",
+    "date": "2024-06-06",
+    "time": "19:00",
+    "status": "Spektakl gościnny",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "ANIOŁY W WARSZAWIE",
+    "date": "2024-06-06",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "ANIOŁY W WARSZAWIE",
+    "date": "2024-06-07",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "SZCZĘŚLIWE DNI",
+    "date": "2024-06-07",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+    "date": "2024-06-07",
+    "time": "19:00",
+    "status": "ENGLISH SUPERTITLES",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "BĘDZIE TRZEBA, TO PÓJDĘ NA WOJNĘ",
+    "date": "2024-06-08",
+    "time": "19:00",
+    "status": "ENGLISH SUPERTITLES",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "SZCZĘŚLIWE DNI",
+    "date": "2024-06-08",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "HORYZONTY 14 / Halina i jej siostry / Małgorzata Kożuchowska",
+    "date": "2024-06-09",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "JEZIORO",
+    "date": "2024-06-11",
+    "time": "19:00",
+    "status": "TEATR PRZYJAZNY SENIOROM",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "KINKY BOOTS",
+    "date": "2024-06-11",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "KINKY BOOTS",
+    "date": "2024-06-12",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "KINKY BOOTS",
+    "date": "2024-06-13",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+    "date": "2024-06-13",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+    "date": "2024-06-14",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "FERDYDURKE",
+    "date": "2024-06-14",
+    "time": "18:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "FERDYDURKE",
+    "date": "2024-06-15",
+    "time": "18:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "WCZORAJ BYŁAŚ ZŁA NA ZIELONO",
+    "date": "2024-06-15",
+    "time": "17:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "THE WALL",
+    "date": "2024-06-18",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "MISTRZ I MAŁGORZATA",
+    "date": "2024-06-20",
+    "time": "18:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "THE WALL",
+    "date": "2024-06-20",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "MISTRZ I MAŁGORZATA",
+    "date": "2024-06-21",
+    "time": "18:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "PODWÓJNY Z FRYTKAMI",
+    "date": "2024-06-21",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "THE WALL",
+    "date": "2024-06-21",
+    "time": "19:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "THE WALL",
+    "date": "2024-06-22",
+    "time": "17:00",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "MISTRZ I MAŁGORZATA",
+    "date": "2024-06-22",
+    "time": "18:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "PODWÓJNY Z FRYTKAMI",
+    "date": "2024-06-22",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "Walizka",
+    "date": "2024-06-24",
+    "time": "19:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "DZIWNY PRZYPADEK PSA NOCNĄ PORĄ",
+    "date": "2024-06-25",
+    "time": "19:00",
+    "status": "TEATR PRZYJAZNY SENIOROM",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "Walizka",
+    "date": "2024-06-25",
+    "time": "19:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "DZIWNY PRZYPADEK PSA NOCNĄ PORĄ",
+    "date": "2024-06-26",
+    "time": "19:00",
+    "status": "TEATR PRZYJAZNY STUDENTOM",
+    "place": "Duża Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "Walizka",
+    "date": "2024-06-26",
+    "time": "19:00",
+    "place": "Scena Przodownik ul. Olesińska 21"
+  },
+  {
+    "title": "CHŁOPAKI PŁACZĄ",
+    "date": "2024-06-27",
+    "time": "19:30",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  },
+  {
+    "title": "CHŁOPAKI PŁACZĄ",
+    "date": "2024-06-28",
+    "time": "19:30",
+    "status": "TEATR PRZYJAZNY STUDENTOM",
+    "place": "Mała Scena PKiN, pl. Defilad 1"
+  }
+]
