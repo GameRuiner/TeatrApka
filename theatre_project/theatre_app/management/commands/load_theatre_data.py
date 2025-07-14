@@ -2,7 +2,7 @@ import json
 import os
 from django.core.management.base import BaseCommand
 from django.utils.dateparse import parse_date, parse_time
-from theatre_app.models import Theatre, Performance
+from theatre_app.models import Performance
 
 class Command(BaseCommand):
     help = 'Load theatre data from JSON files'
