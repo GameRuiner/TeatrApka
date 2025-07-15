@@ -14,22 +14,14 @@ from django.utils import timezone
 
 class Performance(models.Model):    
     title = models.CharField(max_length=300)
-    # theatre = models.ForeignKey(Theatre, on_delete=models.CASCADE, related_name='performances')
     date = models.DateField()
     time = models.TimeField()
     status = models.CharField(max_length=20, null=True)
-    # description = models.TextField(blank=True)
-    # ticket_price = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True)
-    # duration_minutes = models.IntegerField(null=True, blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     
     def __str__(self):
         return f"{self.title} - ({self.date} {self.time})"
-    
-    # @property
-    # def is_available(self):
-    #     return self.status == 'KUP BILET' and self.date >= timezone.now().date()
     
     class Meta:
         ordering = ['date', 'time']

@@ -6,6 +6,8 @@ from .models import Performance
 
 def home(request):
     """Main page with performances list and filters"""
+    performances = Performance.objects.all()
+    print(len(performances))
     # theatres = Theatre.objects.all()
     # performances = Performance.objects.select_related('theatre').all()
     # print(performances)
@@ -49,7 +51,7 @@ def home(request):
     
     context = {
     #     # 'theatres': theatres,
-    #     'performances': performances,
+        'performances': performances,
     #     'status_choices': Performance.STATUS_CHOICES,
     #     'selected_theatre': theatre_id,
     #     'selected_status': status,
