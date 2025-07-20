@@ -1,590 +1,594 @@
-[
-  {
-    "title": "KTO SIĘ BOI VIRGINII WOOLF?",
-    "date": "2025-05-01",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "FERDYDURKE",
-    "date": "2025-05-01",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "KTO SIĘ BOI VIRGINII WOOLF?",
-    "date": "2025-05-02",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "KONIEC CZERWONEGO CZŁOWIEKA",
-    "date": "2025-05-02",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "KTO SIĘ BOI VIRGINII WOOLF?",
-    "date": "2025-05-03",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "KONIEC CZERWONEGO CZŁOWIEKA",
-    "date": "2025-05-03",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SHIRLEY VALENTINE",
-    "date": "2025-05-04",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "KONIEC CZERWONEGO CZŁOWIEKA",
-    "date": "2025-05-04",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "CWANIARY",
-    "date": "2025-05-05",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "STOWARZYSZENIE UMARŁYCH POETÓW",
-    "date": "2025-05-05",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "CWANIARY",
-    "date": "2025-05-06",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "STOWARZYSZENIE UMARŁYCH POETÓW",
-    "date": "2025-05-06",
-    "time": "12:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "STOWARZYSZENIE UMARŁYCH POETÓW",
-    "date": "2025-05-06",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "DZIEŁA WSZYSTKIE SZEKSPIRA (W NIECO SKRÓCONEJ WERSJI)",
-    "date": "2025-05-07",
-    "time": "12:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "DZIEŁA WSZYSTKIE SZEKSPIRA (W NIECO SKRÓCONEJ WERSJI)",
-    "date": "2025-05-07",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "CZUŁE SŁÓWKA",
-    "date": "2025-05-07",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "NA PIERWSZY RZUT OKA",
-    "date": "2025-05-08",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "CZUŁE SŁÓWKA",
-    "date": "2025-05-08",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "ZAPISKI Z WYGNANIA",
-    "date": "2025-05-09",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "COŚ TU NIE GRA",
-    "date": "2025-05-09",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "KLAPS! 50 TWARZY GREYA",
-    "date": "2025-05-10",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "JACEK KLEYFF - KONCERT",
-    "date": "2025-05-10",
-    "time": "16:00",
-    "status": "obsada",
-    "place": "Och-Cafe"
-  },
-  {
-    "title": "COŚ TU NIE GRA",
-    "date": "2025-05-10",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "POGO",
-    "date": "2025-05-11",
-    "time": "16:00",
-    "status": "obsada",
-    "place": "Mała Scena - Fioletowe Pończochy"
-  },
-  {
-    "title": "MY WAY - monolog Krystyny Jandy",
-    "date": "2025-05-11",
-    "time": "20:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "COŚ TU NIE GRA",
-    "date": "2025-05-11",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "KLAPS! 50 TWARZY GREYA",
-    "date": "2025-05-12",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "WSPÓLNOTA MIESZKANIOWA",
-    "date": "2025-05-12",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "NO, A JA? - koncert Michała Bajora",
-    "date": "2025-05-13",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "WSPÓLNOTA MIESZKANIOWA",
-    "date": "2025-05-13",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "NA RAUSZU",
-    "date": "2025-05-14",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "ZEMSTA",
-    "date": "2025-05-14",
-    "time": "12:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "ZEMSTA",
-    "date": "2025-05-14",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "NA RAUSZU",
-    "date": "2025-05-15",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "ZEMSTA",
-    "date": "2025-05-15",
-    "time": "12:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "ZEMSTA",
-    "date": "2025-05-15",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SZTUKA WYWIADU",
-    "date": "2025-05-16",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-16",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SZTUKA WYWIADU",
-    "date": "2025-05-17",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-17",
-    "time": "15:30",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "KONIEC CZERWONEGO CZŁOWIEKA",
-    "date": "2025-05-17",
-    "time": "16:00",
-    "status": "obsada",
-    "place": "Teatr im. Wojciecha Bogusławskiego w Kaliszu"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-17",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "KONIEC CZERWONEGO CZŁOWIEKA",
-    "date": "2025-05-17",
-    "time": "19:30",
-    "status": "obsada",
-    "place": "Teatr im. Wojciecha Bogusławskiego w Kaliszu"
-  },
-  {
-    "title": "ŻYCIE PANI POMSEL",
-    "date": "2025-05-18",
-    "time": "15:30",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "ŻYCIE PANI POMSEL",
-    "date": "2025-05-18",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-18",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "MĄŻ I ŻONA",
-    "date": "2025-05-19",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "SŁONECZNI CHŁOPCY",
-    "date": "2025-05-19",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Teatr Muzyczny w Łodzi"
-  },
-  {
-    "title": "LILY",
-    "date": "2025-05-19",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SŁONECZNI CHŁOPCY",
-    "date": "2025-05-19",
-    "time": "20:15",
-    "status": "obsada",
-    "place": "Teatr Muzyczny w Łodzi"
-  },
-  {
-    "title": "MINETTI. PORTRET ARTYSTY Z CZASÓW STAROŚCI",
-    "date": "2025-05-20",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "LILY",
-    "date": "2025-05-20",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "MINETTI. PORTRET ARTYSTY Z CZASÓW STAROŚCI",
-    "date": "2025-05-21",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "PRAPREMIERA DRESZCZOWCA",
-    "date": "2025-05-21",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "GŁOWA W PIASEK",
-    "date": "2025-05-22",
-    "time": "17:30",
-    "status": "obsada",
-    "place": "Aula Artis w Poznaniu"
-  },
-  {
-    "title": "BOŻE MÓJ!",
-    "date": "2025-05-22",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "GŁOWA W PIASEK",
-    "date": "2025-05-22",
-    "time": "20:00",
-    "status": "obsada",
-    "place": "Aula Artis w Poznaniu"
-  },
-  {
-    "title": "PRAPREMIERA DRESZCZOWCA",
-    "date": "2025-05-22",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "BOŻE MÓJ!",
-    "date": "2025-05-23",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "OKNO NA PARLAMENT",
-    "date": "2025-05-23",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SŁONECZNA LINIA",
-    "date": "2025-05-24",
-    "time": "15:30",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "DEPRESJA KOMIKA",
-    "date": "2025-05-24",
-    "time": "16:00",
-    "status": "obsada",
-    "place": "ATM Scena na Bielanach Wrocławskich"
-  },
-  {
-    "title": "SŁONECZNA LINIA",
-    "date": "2025-05-24",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "DEPRESJA KOMIKA",
-    "date": "2025-05-24",
-    "time": "19:15",
-    "status": "obsada",
-    "place": "ATM Scena na Bielanach Wrocławskich"
-  },
-  {
-    "title": "KRZYSZTOF DAUKSZEWICZ - HRABIA WRÓCIŁ",
-    "date": "2025-05-24",
-    "time": "16:00",
-    "status": "obsada",
-    "place": "Och-Cafe"
-  },
-  {
-    "title": "OKNO NA PARLAMENT",
-    "date": "2025-05-24",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SEKS DLA OPORNYCH'",
-    "date": "2025-05-25",
-    "time": "15:30",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "SEKS DLA OPORNYCH'",
-    "date": "2025-05-25",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "BIAŁA BLUZKA",
-    "date": "2025-05-25",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "SZATAN SHOW",
-    "date": "2025-05-26",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "FERDYDURKE",
-    "date": "2025-05-26",
-    "time": "12:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-26",
-    "time": "17:00",
-    "status": "obsada",
-    "place": "Teatr Capitol we Wrocławiu"
-  },
-  {
-    "title": "FERDYDURKE",
-    "date": "2025-05-26",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-26",
-    "time": "20:30",
-    "status": "obsada",
-    "place": "Teatr Capitol we Wrocławiu"
-  },
-  {
-    "title": "PAN HOHO",
-    "date": "2025-05-27",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "OSZUŚCI",
-    "date": "2025-05-27",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "PAN HOHO",
-    "date": "2025-05-28",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "OSZUŚCI",
-    "date": "2025-05-28",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "GŁOWA W PIASEK",
-    "date": "2025-05-29",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-29",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "GŁOWA W PIASEK",
-    "date": "2025-05-30",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "POMOC DOMOWA",
-    "date": "2025-05-30",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  },
-  {
-    "title": "GŁOWA W PIASEK",
-    "date": "2025-05-31",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Teatr Polonia - Duża Scena"
-  },
-  {
-    "title": "OSZUŚCI",
-    "date": "2025-05-31",
-    "time": "19:00",
-    "status": "obsada",
-    "place": "Och-Teatr - Duża Scena"
-  }
-]
+{
+  "name": "Teatr Polonia",
+  "address": "Marszałkowska 56/14, 00-545 Warszawa",
+  "performances": [
+    {
+      "title": "KTO SIĘ BOI VIRGINII WOOLF?",
+      "date": "2025-05-01",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "FERDYDURKE",
+      "date": "2025-05-01",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "KTO SIĘ BOI VIRGINII WOOLF?",
+      "date": "2025-05-02",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "KONIEC CZERWONEGO CZŁOWIEKA",
+      "date": "2025-05-02",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "KTO SIĘ BOI VIRGINII WOOLF?",
+      "date": "2025-05-03",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "KONIEC CZERWONEGO CZŁOWIEKA",
+      "date": "2025-05-03",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SHIRLEY VALENTINE",
+      "date": "2025-05-04",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "KONIEC CZERWONEGO CZŁOWIEKA",
+      "date": "2025-05-04",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "CWANIARY",
+      "date": "2025-05-05",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "STOWARZYSZENIE UMARŁYCH POETÓW",
+      "date": "2025-05-05",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "CWANIARY",
+      "date": "2025-05-06",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "STOWARZYSZENIE UMARŁYCH POETÓW",
+      "date": "2025-05-06",
+      "time": "12:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "STOWARZYSZENIE UMARŁYCH POETÓW",
+      "date": "2025-05-06",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "DZIEŁA WSZYSTKIE SZEKSPIRA (W NIECO SKRÓCONEJ WERSJI)",
+      "date": "2025-05-07",
+      "time": "12:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "DZIEŁA WSZYSTKIE SZEKSPIRA (W NIECO SKRÓCONEJ WERSJI)",
+      "date": "2025-05-07",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "CZUŁE SŁÓWKA",
+      "date": "2025-05-07",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "NA PIERWSZY RZUT OKA",
+      "date": "2025-05-08",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "CZUŁE SŁÓWKA",
+      "date": "2025-05-08",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "ZAPISKI Z WYGNANIA",
+      "date": "2025-05-09",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "COŚ TU NIE GRA",
+      "date": "2025-05-09",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "KLAPS! 50 TWARZY GREYA",
+      "date": "2025-05-10",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "JACEK KLEYFF - KONCERT",
+      "date": "2025-05-10",
+      "time": "16:00",
+      "status": "obsada",
+      "place": "Och-Cafe"
+    },
+    {
+      "title": "COŚ TU NIE GRA",
+      "date": "2025-05-10",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "POGO",
+      "date": "2025-05-11",
+      "time": "16:00",
+      "status": "obsada",
+      "place": "Mała Scena - Fioletowe Pończochy"
+    },
+    {
+      "title": "MY WAY - monolog Krystyny Jandy",
+      "date": "2025-05-11",
+      "time": "20:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "COŚ TU NIE GRA",
+      "date": "2025-05-11",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "KLAPS! 50 TWARZY GREYA",
+      "date": "2025-05-12",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "WSPÓLNOTA MIESZKANIOWA",
+      "date": "2025-05-12",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "NO, A JA? - koncert Michała Bajora",
+      "date": "2025-05-13",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "WSPÓLNOTA MIESZKANIOWA",
+      "date": "2025-05-13",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "NA RAUSZU",
+      "date": "2025-05-14",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "ZEMSTA",
+      "date": "2025-05-14",
+      "time": "12:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "ZEMSTA",
+      "date": "2025-05-14",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "NA RAUSZU",
+      "date": "2025-05-15",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "ZEMSTA",
+      "date": "2025-05-15",
+      "time": "12:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "ZEMSTA",
+      "date": "2025-05-15",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SZTUKA WYWIADU",
+      "date": "2025-05-16",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-16",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SZTUKA WYWIADU",
+      "date": "2025-05-17",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-17",
+      "time": "15:30",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "KONIEC CZERWONEGO CZŁOWIEKA",
+      "date": "2025-05-17",
+      "time": "16:00",
+      "status": "obsada",
+      "place": "Teatr im. Wojciecha Bogusławskiego w Kaliszu"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-17",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "KONIEC CZERWONEGO CZŁOWIEKA",
+      "date": "2025-05-17",
+      "time": "19:30",
+      "status": "obsada",
+      "place": "Teatr im. Wojciecha Bogusławskiego w Kaliszu"
+    },
+    {
+      "title": "ŻYCIE PANI POMSEL",
+      "date": "2025-05-18",
+      "time": "15:30",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "ŻYCIE PANI POMSEL",
+      "date": "2025-05-18",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-18",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "MĄŻ I ŻONA",
+      "date": "2025-05-19",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "SŁONECZNI CHŁOPCY",
+      "date": "2025-05-19",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Teatr Muzyczny w Łodzi"
+    },
+    {
+      "title": "LILY",
+      "date": "2025-05-19",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SŁONECZNI CHŁOPCY",
+      "date": "2025-05-19",
+      "time": "20:15",
+      "status": "obsada",
+      "place": "Teatr Muzyczny w Łodzi"
+    },
+    {
+      "title": "MINETTI. PORTRET ARTYSTY Z CZASÓW STAROŚCI",
+      "date": "2025-05-20",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "LILY",
+      "date": "2025-05-20",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "MINETTI. PORTRET ARTYSTY Z CZASÓW STAROŚCI",
+      "date": "2025-05-21",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "PRAPREMIERA DRESZCZOWCA",
+      "date": "2025-05-21",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "GŁOWA W PIASEK",
+      "date": "2025-05-22",
+      "time": "17:30",
+      "status": "obsada",
+      "place": "Aula Artis w Poznaniu"
+    },
+    {
+      "title": "BOŻE MÓJ!",
+      "date": "2025-05-22",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "GŁOWA W PIASEK",
+      "date": "2025-05-22",
+      "time": "20:00",
+      "status": "obsada",
+      "place": "Aula Artis w Poznaniu"
+    },
+    {
+      "title": "PRAPREMIERA DRESZCZOWCA",
+      "date": "2025-05-22",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "BOŻE MÓJ!",
+      "date": "2025-05-23",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "OKNO NA PARLAMENT",
+      "date": "2025-05-23",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SŁONECZNA LINIA",
+      "date": "2025-05-24",
+      "time": "15:30",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "DEPRESJA KOMIKA",
+      "date": "2025-05-24",
+      "time": "16:00",
+      "status": "obsada",
+      "place": "ATM Scena na Bielanach Wrocławskich"
+    },
+    {
+      "title": "SŁONECZNA LINIA",
+      "date": "2025-05-24",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "DEPRESJA KOMIKA",
+      "date": "2025-05-24",
+      "time": "19:15",
+      "status": "obsada",
+      "place": "ATM Scena na Bielanach Wrocławskich"
+    },
+    {
+      "title": "KRZYSZTOF DAUKSZEWICZ - HRABIA WRÓCIŁ",
+      "date": "2025-05-24",
+      "time": "16:00",
+      "status": "obsada",
+      "place": "Och-Cafe"
+    },
+    {
+      "title": "OKNO NA PARLAMENT",
+      "date": "2025-05-24",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SEKS DLA OPORNYCH'",
+      "date": "2025-05-25",
+      "time": "15:30",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "SEKS DLA OPORNYCH'",
+      "date": "2025-05-25",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "BIAŁA BLUZKA",
+      "date": "2025-05-25",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "SZATAN SHOW",
+      "date": "2025-05-26",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "FERDYDURKE",
+      "date": "2025-05-26",
+      "time": "12:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-26",
+      "time": "17:00",
+      "status": "obsada",
+      "place": "Teatr Capitol we Wrocławiu"
+    },
+    {
+      "title": "FERDYDURKE",
+      "date": "2025-05-26",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-26",
+      "time": "20:30",
+      "status": "obsada",
+      "place": "Teatr Capitol we Wrocławiu"
+    },
+    {
+      "title": "PAN HOHO",
+      "date": "2025-05-27",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "OSZUŚCI",
+      "date": "2025-05-27",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "PAN HOHO",
+      "date": "2025-05-28",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "OSZUŚCI",
+      "date": "2025-05-28",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "GŁOWA W PIASEK",
+      "date": "2025-05-29",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-29",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "GŁOWA W PIASEK",
+      "date": "2025-05-30",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "POMOC DOMOWA",
+      "date": "2025-05-30",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    },
+    {
+      "title": "GŁOWA W PIASEK",
+      "date": "2025-05-31",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Teatr Polonia - Duża Scena"
+    },
+    {
+      "title": "OSZUŚCI",
+      "date": "2025-05-31",
+      "time": "19:00",
+      "status": "obsada",
+      "place": "Och-Teatr - Duża Scena"
+    }
+  ]
+}

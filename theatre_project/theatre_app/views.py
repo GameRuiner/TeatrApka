@@ -3,14 +3,12 @@ from django.http import JsonResponse
 from django.db.models import Q, Avg
 from datetime import datetime, date
 from .models import Performance
+from collections import defaultdict
 
 def home(request):
-    """Main page with performances list and filters"""
-    performances = Performance.objects.all()
-    print(len(performances))
-    # theatres = Theatre.objects.all()
-    # performances = Performance.objects.select_related('theatre').all()
-    # print(performances)
+    grouped = defaultdict(list)
+    for perf in Performance.objects.select_related('theatre').all():
+        grouped[perf.theatre].append(perf)
     
     # # Filter by theatre
     # theatre_id = request.GET.get('theatre')
@@ -49,17 +47,17 @@ def home(request):
     # # for performance in performances:
     # #     performance.avg_rating = performance.reviews.aggregate(Avg('rating'))['rating__avg']
     
-    context = {
+    # context = {
     #     # 'theatres': theatres,
-        'performances': performances,
     #     'status_choices': Performance.STATUS_CHOICES,
     #     'selected_theatre': theatre_id,
     #     'selected_status': status,
     #     'start_date': start_date,
     #     'end_date': end_date,
     #     'search_query': search,
-    }
+    # }
     
+    context = {'grouped_performances': dict(grouped)}
     return render(request, 'theatre_app/home.html', context)
 
 def performance_detail(request, performance_id):

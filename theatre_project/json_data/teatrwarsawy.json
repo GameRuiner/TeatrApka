@@ -1,149 +1,153 @@
-[
-  {
-    "title": "tato nie wraca",
-    "date": "2024-06-03",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "taśma",
-    "date": "2024-06-04",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "taśma",
-    "date": "2024-06-05",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "O!żenek - premiera",
-    "date": "2024-06-11",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "O!żenek",
-    "date": "2024-06-12",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "O!żenek",
-    "date": "2024-06-13",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "szaman. spektakl reporterski",
-    "date": "2024-06-15",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "szaman. spektakl reporterski",
-    "date": "2024-06-16",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "inwigiliacja",
-    "date": "2024-06-18",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "inwigiliacja",
-    "date": "2024-06-20",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "nie piję, nie palę, chętnie zrobię z pani mamę",
-    "date": "2024-06-23",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "nie piję, nie palę, chętnie zrobię z pani mamę",
-    "date": "2024-06-24",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "kompleks Portnoya",
-    "date": "2024-06-26",
-    "time": "16:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "kompleks Portnoya",
-    "date": "2024-06-27",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "kobieta, która wpadała na drzwi",
-    "date": "2024-07-01",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "kobieta, która wpadała na drzwi",
-    "date": "2024-07-02",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "MATKA I DZIECKO",
-    "date": "2024-06-18",
-    "time": "18:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "MATKA I DZIECKO",
-    "date": "2024-06-18",
-    "time": "20:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "Taśma",
-    "date": "2024-06-20",
-    "time": "18:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "Taśma",
-    "date": "2024-06-20",
-    "time": "20:30",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "Kompleks Portnoya",
-    "date": "2024-06-21",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  }
-]
+{
+  "name": "Teatr WARSawy",
+  "address": "Grażyny 10/3, 02-548 Warszawa",
+  "performances": [
+    {
+      "title": "tato nie wraca",
+      "date": "2024-06-03",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "taśma",
+      "date": "2024-06-04",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "taśma",
+      "date": "2024-06-05",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "O!żenek - premiera",
+      "date": "2024-06-11",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "O!żenek",
+      "date": "2024-06-12",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "O!żenek",
+      "date": "2024-06-13",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "szaman. spektakl reporterski",
+      "date": "2024-06-15",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "szaman. spektakl reporterski",
+      "date": "2024-06-16",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "inwigiliacja",
+      "date": "2024-06-18",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "inwigiliacja",
+      "date": "2024-06-20",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "nie piję, nie palę, chętnie zrobię z pani mamę",
+      "date": "2024-06-23",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "nie piję, nie palę, chętnie zrobię z pani mamę",
+      "date": "2024-06-24",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "kompleks Portnoya",
+      "date": "2024-06-26",
+      "time": "16:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "kompleks Portnoya",
+      "date": "2024-06-27",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "kobieta, która wpadała na drzwi",
+      "date": "2024-07-01",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "kobieta, która wpadała na drzwi",
+      "date": "2024-07-02",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "MATKA I DZIECKO",
+      "date": "2024-06-18",
+      "time": "18:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "MATKA I DZIECKO",
+      "date": "2024-06-18",
+      "time": "20:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "Taśma",
+      "date": "2024-06-20",
+      "time": "18:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "Taśma",
+      "date": "2024-06-20",
+      "time": "20:30",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "Kompleks Portnoya",
+      "date": "2024-06-21",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    }
+  ]
+}

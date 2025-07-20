@@ -1,4 +1,7 @@
-[
+{
+  "name": "Teatr 6.piętro",
+  "address": "wejście od, plac Defilad, Marszałkowska 1, 00-901 Warszawa",
+  "performances":[
   {
     "title": "[Things We Do for] LOVE ",
     "date": null,
@@ -90,4 +93,4 @@
     "status": "najbliższy termin spektaklu",
     "place": null
   }
-]
+]}

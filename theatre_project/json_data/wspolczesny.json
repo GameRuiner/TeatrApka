@@ -1,4 +1,7 @@
-[
+{
+  "name": "Teatr Współczesny w Warszawie",
+  "address": "ul. Mokotowska 13, 00-640 Warszawa",
+  "performances": [
   {
     "title": "Kto chce być Żydem ?",
     "date": "2025-05-01",
@@ -370,4 +373,4 @@
     "status": null,
     "place": "Scena w Baraku"
   }
-]
+]}

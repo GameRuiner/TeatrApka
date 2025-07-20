@@ -2,7 +2,7 @@ import json
 import os
 from django.core.management.base import BaseCommand
 from django.utils.dateparse import parse_date, parse_time
-from theatre_app.models import Performance
+from theatre_app.models import Performance, Theatre
 
 class Command(BaseCommand):
     help = 'Load theatre data from JSON files'
@@ -26,15 +26,15 @@ class Command(BaseCommand):
     def load_json_file(self, filepath):
         with open(filepath, 'r', encoding='utf-8') as file:
             data = json.load(file)
-        
-        for item in data:
-            # Get or create theatre
-            # theatre_name = item.get('place', 'Unknown Theatre')
-            # theatre, created = Theatre.objects.get_or_create(name=theatre_name)
-            
-            # if created:
-            #     self.stdout.write(f'Created theatre: {theatre_name}')
-            
+  
+        # Get or create theatre
+        theatre_name = data.get('name', 'Unknown Theatre')
+        address=data.get('address', '')
+        theatre, created = Theatre.objects.get_or_create(name=theatre_name, address=address)     
+        if created:
+            self.stdout.write(f'Created theatre: {theatre_name}')  
+                  
+        for item in data.get('performances', []):
             # Parse date and time
             date_str = item.get('date')
             time_str = item.get('time')
@@ -53,7 +53,7 @@ class Command(BaseCommand):
             # Create or update performance
             performance, created = Performance.objects.get_or_create(
                 title=item.get('title', 'Untitled'),
-                # theatre=theatre,
+                theatre=theatre,
                 date=date_obj,
                 time=time_obj,
                 # defaults={
@@ -61,11 +61,7 @@ class Command(BaseCommand):
                 # }
             )
             
-            # if created:
-            #     self.stdout.write(f'Created performance: {performance.title} at {theatre_name}')
-            # else:
-            #     # Update status if it changed
-            #     if performance.status != item.get('status', 'KUP BILET'):
-            #         performance.status = item.get('status', 'KUP BILET')
-            #         performance.save()
-            #         self.stdout.write(f'Updated performance: {performance.title}')
+            if created:
+                self.stdout.write(f'Created performance: {performance.title} at {theatre_name}')
+            else:
+                self.stdout.write(f'Updated performance: {performance.title}')

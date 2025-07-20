@@ -1,58 +1,62 @@
-[
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-28",
-    "time": "11:00",
-    "status": null,
-    "place": "Scena kameralna"
-  },
-  {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-28",
-    "time": "19:00",
-    "status": null,
-    "place": "Duża scena"
-  },
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-29",
-    "time": "11:00",
-    "status": null,
-    "place": "Scena kameralna"
-  },
-  {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-29",
-    "time": "19:00",
-    "status": null,
-    "place": "Duża scena"
-  },
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-30",
-    "time": "11:00",
-    "status": null,
-    "place": "Scena kameralna"
-  },
-  {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-30",
-    "time": "19:00",
-    "status": null,
-    "place": "Duża scena"
-  },
-  {
-    "title": "Dzień dziecka",
-    "date": "2024-05-31",
-    "time": "16:00",
-    "status": null,
-    "place": "Scena kameralna"
-  },
-  {
-    "title": "Witkacja. Wodewil na krawędzi",
-    "date": "2024-05-31",
-    "time": "19:00",
-    "status": null,
-    "place": "Duża scena"
-  }
-]
+{
+  "name": "Potem-o-tem",
+  "address": "Nowolipki 2/2a, 00-160 Warszawa",
+  "performances": [
+    {
+      "title": "Dzień dziecka",
+      "date": "2024-05-28",
+      "time": "11:00",
+      "status": null,
+      "place": "Scena kameralna"
+    },
+    {
+      "title": "Witkacja. Wodewil na krawędzi",
+      "date": "2024-05-28",
+      "time": "19:00",
+      "status": null,
+      "place": "Duża scena"
+    },
+    {
+      "title": "Dzień dziecka",
+      "date": "2024-05-29",
+      "time": "11:00",
+      "status": null,
+      "place": "Scena kameralna"
+    },
+    {
+      "title": "Witkacja. Wodewil na krawędzi",
+      "date": "2024-05-29",
+      "time": "19:00",
+      "status": null,
+      "place": "Duża scena"
+    },
+    {
+      "title": "Dzień dziecka",
+      "date": "2024-05-30",
+      "time": "11:00",
+      "status": null,
+      "place": "Scena kameralna"
+    },
+    {
+      "title": "Witkacja. Wodewil na krawędzi",
+      "date": "2024-05-30",
+      "time": "19:00",
+      "status": null,
+      "place": "Duża scena"
+    },
+    {
+      "title": "Dzień dziecka",
+      "date": "2024-05-31",
+      "time": "16:00",
+      "status": null,
+      "place": "Scena kameralna"
+    },
+    {
+      "title": "Witkacja. Wodewil na krawędzi",
+      "date": "2024-05-31",
+      "time": "19:00",
+      "status": null,
+      "place": "Duża scena"
+    }
+  ]
+}

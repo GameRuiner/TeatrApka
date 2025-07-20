@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <title>Performances</title>
@@ -8,49 +9,60 @@
             font-family: sans-serif;
             padding: 2rem;
         }
+
         h1 {
             margin-bottom: 1rem;
         }
+
         table {
             border-collapse: collapse;
             width: 100%;
         }
-        th, td {
+
+        th,
+        td {
             padding: 0.75rem;
             border: 1px solid #ccc;
             text-align: left;
         }
+
         th {
             background-color: #f5f5f5;
         }
     </style>
 </head>
-<body>
-    <h1>Upcoming Performances</h1>
 
-    {% if performances %}
-        <table>
-            <thead>
-                <tr>
-                    <th>Title</th>
-                    <th>Date</th>
-                    <th>Time</th>
-                    <th>Status</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for perf in performances %}
-                    <tr>
-                        <td>{{ perf.title }}</td>
-                        <td>{{ perf.date }}</td>
-                        <td>{{ perf.time }}</td>
-                        <td>{{ perf.status|default:"—" }}</td>
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+<body>
+    <h1>Performances</h1>
+
+    {% if grouped_performances %}
+    {% for theatre, performances in grouped_performances.items %}
+    <h2>{{ theatre.name }}</h2>
+    <p>{{ theatre.address }}</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Date</th>
+                <th>Time</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for perf in performances %}
+            <tr>
+                <td>{{ perf.title }}</td>
+                <td>{{ perf.date }}</td>
+                <td>{{ perf.time }}</td>
+                <td>{{ perf.status|default:"—" }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endfor %}
     {% else %}
-        <p>No performances found.</p>
+    <p>No performances found.</p>
     {% endif %}
 </body>
+
 </html>

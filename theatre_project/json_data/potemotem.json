@@ -1,23 +1,27 @@
-[
-  {
-    "title": "20 Lexusów na czwartek",
-    "date": "2024-05-23",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "20 Lexusów na czwartek",
-    "date": "2024-05-24",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  },
-  {
-    "title": "Powierzchnie Gładkie",
-    "date": "2024-05-31",
-    "time": "17:00",
-    "status": null,
-    "place": null
-  }
-]
+{
+  "name": "Potem-o-tem",
+  "address": "Nowolipki 2/2a, 00-160 Warszawa",
+  "performances": [
+    {
+      "title": "20 Lexusów na czwartek",
+      "date": "2024-05-23",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "20 Lexusów na czwartek",
+      "date": "2024-05-24",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    },
+    {
+      "title": "Powierzchnie Gładkie",
+      "date": "2024-05-31",
+      "time": "17:00",
+      "status": null,
+      "place": null
+    }
+  ]
+}

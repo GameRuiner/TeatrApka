@@ -1,9 +1,13 @@
-[
-  {
-    "title": "WAVES | wernisaż wystawy Natalii Izdebskiej ",
-    "date": "2025-07-17",
-    "time": "19:00",
-    "status": null,
-    "place": null
-  }
-]
+{
+  "name": "Teatr Druga Strefa",
+  "address": "Magazynowa 14A, 02-652 Warszawa",
+  "performances": [
+    {
+      "title": "WAVES | wernisaż wystawy Natalii Izdebskiej ",
+      "date": "2025-07-17",
+      "time": "19:00",
+      "status": null,
+      "place": null
+    }
+  ]
+}
