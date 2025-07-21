@@ -40,6 +40,8 @@ theatres = [
     "https://potemotem.com/"
     ]
 
+theatres = ["https://www.teatr2strefa.pl"]
+
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)
     print(f"Parsing theatre {theater_name}, url {theatre_url}")
@@ -53,10 +55,21 @@ for theatre_url in theatres:
         content = clean_html_for_llm(url)
         performances = parse_repertoires_from_page(content, client)
         print(f"Found {len(performances)} performances")
-        if len(performances) > 0:
-            with open(f"temp/{theater_name}.json", "w") as file:
-                json.dump(performances, file, ensure_ascii=False, indent=2)
-            break       
+        json_path = f"../theatre_project/json_data/{theater_name}.json"
+        if performances:
+            if os.path.exists(json_path):
+                with open(json_path, "r", encoding="utf-8") as file:
+                    existing_data = json.load(file)
+            else:
+                existing_data = {
+                    "name": theater_name,
+                    "address": "",
+                }
+
+            existing_data["performances"] = performances
+
+            with open(json_path, "w", encoding="utf-8") as file:
+                json.dump(existing_data, file, ensure_ascii=False, indent=2)
 
     # if len(repertoire_links) > 0:
     #     first_url = repertoire_links[0]

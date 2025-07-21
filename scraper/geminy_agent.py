@@ -9,7 +9,8 @@ def parse_repertoires_from_page(html_content: str, client) -> list[dict]:
         {
             "title": "Performance name",
             "date": "YYYY-MM-DD",
-            "time": "HH:MM",
+            "start_time": "HH:MM",
+            "end_time": "HH:MM",
             "status": "Performance status",
             "place": "Performance place",
         }
