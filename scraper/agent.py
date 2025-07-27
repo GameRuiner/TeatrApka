@@ -3,16 +3,16 @@ from bs4 import BeautifulSoup, Comment
 import re
 import json
 from urllib.parse import urljoin
-from playwright.sync_api import sync_playwright
+from playwright.async_api import async_playwright
 
-def clean_html_for_llm(url):
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        page.goto(url)
-        page.wait_for_timeout(5000)
-        html_content = page.content()
-        browser.close()
+async def clean_html_for_llm_async(url):
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
+        await page.goto(url)
+        await page.wait_for_timeout(5000)
+        html_content = await page.content()
+        await browser.close()
     soup = BeautifulSoup(html_content, "html.parser")
     for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
         comment.extract()
@@ -46,15 +46,35 @@ def extract_pure_json(text: str) -> list[dict]:
     match = re.search(json_pattern, text)
     if match:
         json_text = (match.group(1) or match.group(2)).strip()
-        return json.loads(json_text)
-    return json.loads(text.strip())
-
-def is_json_complete(text: str) -> bool:
+    else:
+        json_text = text.strip()
     try:
-        json.loads(text)
-        return True
-    except json.JSONDecodeError:
-        return False
+        return json.loads(json_text)
+    except json.JSONDecodeError as e:
+        print(f"Initial JSONDecodeError: {e}. Attempting repair...")
+    return _truncate_to_valid_array(json_text)
+
+
+def _truncate_to_valid_array(text: str) -> list[dict]:
+    """Truncate a JSON array string to the last valid JSON object and close the array."""
+    start = text.find('[')
+    if start == -1:
+        raise ValueError("No JSON array found.")
+    array_body = text[start:]
+    repaired_objects = []
+    object_texts = re.split(r'},\s*{', array_body[1:-1])
+    for obj in object_texts:
+        obj = obj.strip()
+        if not obj.startswith('{'):
+            obj = '{' + obj
+        if not obj.endswith('}'):
+            obj = obj + '}'
+        try:
+            parsed = json.loads(obj)
+            repaired_objects.append(parsed)
+        except json.JSONDecodeError:
+            break
+    return repaired_objects
     
 def extract_links_from_page(html_content, base_url):
     """Extract all links from a page with their text"""

@@ -17,10 +17,8 @@ def parse_repertoires_from_page(html_content: str, client) -> list[dict]:
         ]
         ```
         Important rules:
-        - Return ONLY valid JSON (no extra text or markdown).
-        - If you are reaching the token limit or need to stop, DO NOT cut off in the middle of a JSON object. 
-        Finish the current object fully and stop after a comma (`,`) or after the closing bracket (`]`) if at the end.
-        - When continuing later, start exactly where you left off, starting with the next JSON object or the closing bracket.
+        - Return ONLY valid JSON (no extra text or markdown)
+        - Prioritize completing the current JSON object over stopping at the exact token limit.
     """
     messages = F"""
         {system_message}

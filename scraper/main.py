@@ -3,10 +3,11 @@ import os
 from langchain_together import ChatTogether
 from dotenv import load_dotenv
 from urllib.parse import urlparse
-from agent import clean_html_for_llm, extract_links_from_page, get_repertoire_links
+from agent import clean_html_for_llm_async, extract_links_from_page, get_repertoire_links
 from geminy_agent import parse_repertoires_from_page
 from google import genai
 import json
+import asyncio
 
 load_dotenv();
 
@@ -40,19 +41,20 @@ theatres = [
     "https://potemotem.com/"
     ]
 
-theatres = ["https://www.teatr2strefa.pl"]
+theatres = ["https://teatrdramatyczny.pl/"]
 
 for theatre_url in theatres:
     theater_name = get_theatre_name(theatre_url)
     print(f"Parsing theatre {theater_name}, url {theatre_url}")
-    content = clean_html_for_llm(theatre_url)
+    
+    content = asyncio.run(clean_html_for_llm_async(theatre_url))
     links = extract_links_from_page(content, theatre_url)
     repertoire_links = get_repertoire_links(links, model)
 
     for url_obj in repertoire_links:
         url = url_obj["url"]
         print(f"Repertoire link {url}")
-        content = clean_html_for_llm(url)
+        content = asyncio.run(clean_html_for_llm_async(url))
         performances = parse_repertoires_from_page(content, client)
         print(f"Found {len(performances)} performances")
         json_path = f"../theatre_project/json_data/{theater_name}.json"
@@ -70,10 +72,3 @@ for theatre_url in theatres:
 
             with open(json_path, "w", encoding="utf-8") as file:
                 json.dump(existing_data, file, ensure_ascii=False, indent=2)
-
-    # if len(repertoire_links) > 0:
-    #     first_url = repertoire_links[0]
-    #     if first_url["confidence"] >= 0.7:
-    #         url = first_url['url']
-    #     else:
-    #         url = theatre_url
